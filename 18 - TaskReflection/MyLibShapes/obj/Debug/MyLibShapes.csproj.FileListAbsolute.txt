@@ -1,0 +1,12 @@
+C:\Users\пк\source\repos\18 - TaskReflection\MyLibShapes\bin\Debug\MyLibShapes.dll
+C:\Users\пк\source\repos\18 - TaskReflection\MyLibShapes\bin\Debug\MyLibShapes.pdb
+C:\Users\пк\source\repos\18 - TaskReflection\MyLibShapes\obj\Debug\MyLibShapes.csprojAssemblyReference.cache
+C:\Users\пк\source\repos\18 - TaskReflection\MyLibShapes\obj\Debug\MyLibShapes.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\18 - TaskReflection\MyLibShapes\obj\Debug\MyLibShapes.dll
+C:\Users\пк\source\repos\18 - TaskReflection\MyLibShapes\obj\Debug\MyLibShapes.pdb
+D:\Документы Владмира\C# Jun\Works\Task's\18 - TaskReflection\MyLibShapes\bin\Debug\MyLibShapes.dll
+D:\Документы Владмира\C# Jun\Works\Task's\18 - TaskReflection\MyLibShapes\bin\Debug\MyLibShapes.pdb
+D:\Документы Владмира\C# Jun\Works\Task's\18 - TaskReflection\MyLibShapes\obj\Debug\MyLibShapes.csprojAssemblyReference.cache
+D:\Документы Владмира\C# Jun\Works\Task's\18 - TaskReflection\MyLibShapes\obj\Debug\MyLibShapes.csproj.CoreCompileInputs.cache
+D:\Документы Владмира\C# Jun\Works\Task's\18 - TaskReflection\MyLibShapes\obj\Debug\MyLibShapes.dll
+D:\Документы Владмира\C# Jun\Works\Task's\18 - TaskReflection\MyLibShapes\obj\Debug\MyLibShapes.pdb

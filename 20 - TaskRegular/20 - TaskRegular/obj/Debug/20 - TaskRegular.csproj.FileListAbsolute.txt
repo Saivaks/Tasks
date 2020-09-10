@@ -1,0 +1,7 @@
+C:\Users\пк\source\repos\20 - TaskRegular\20 - TaskRegular\bin\Debug\20 - TaskRegular.exe.config
+C:\Users\пк\source\repos\20 - TaskRegular\20 - TaskRegular\bin\Debug\20 - TaskRegular.exe
+C:\Users\пк\source\repos\20 - TaskRegular\20 - TaskRegular\bin\Debug\20 - TaskRegular.pdb
+C:\Users\пк\source\repos\20 - TaskRegular\20 - TaskRegular\obj\Debug\20 - TaskRegular.csprojAssemblyReference.cache
+C:\Users\пк\source\repos\20 - TaskRegular\20 - TaskRegular\obj\Debug\20 - TaskRegular.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\20 - TaskRegular\20 - TaskRegular\obj\Debug\20 - TaskRegular.exe
+C:\Users\пк\source\repos\20 - TaskRegular\20 - TaskRegular\obj\Debug\20 - TaskRegular.pdb

@@ -1,0 +1,14 @@
+C:\Users\пк\source\repos\11 - TaskListOrDictionary\11 - TaskListOrDictionary\bin\Debug\11 - TaskListOrDictionary.exe.config
+C:\Users\пк\source\repos\11 - TaskListOrDictionary\11 - TaskListOrDictionary\bin\Debug\11 - TaskListOrDictionary.exe
+C:\Users\пк\source\repos\11 - TaskListOrDictionary\11 - TaskListOrDictionary\bin\Debug\11 - TaskListOrDictionary.pdb
+C:\Users\пк\source\repos\11 - TaskListOrDictionary\11 - TaskListOrDictionary\obj\Debug\11 - TaskListOrDictionary.csprojAssemblyReference.cache
+C:\Users\пк\source\repos\11 - TaskListOrDictionary\11 - TaskListOrDictionary\obj\Debug\11 - TaskListOrDictionary.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\11 - TaskListOrDictionary\11 - TaskListOrDictionary\obj\Debug\11 - TaskListOrDictionary.exe
+C:\Users\пк\source\repos\11 - TaskListOrDictionary\11 - TaskListOrDictionary\obj\Debug\11 - TaskListOrDictionary.pdb
+D:\Документы Владмира\C# Jun\Works\Task's\11 - TaskListOrDictionary\11 - TaskListOrDictionary\bin\Debug\11 - TaskListOrDictionary.exe.config
+D:\Документы Владмира\C# Jun\Works\Task's\11 - TaskListOrDictionary\11 - TaskListOrDictionary\bin\Debug\11 - TaskListOrDictionary.exe
+D:\Документы Владмира\C# Jun\Works\Task's\11 - TaskListOrDictionary\11 - TaskListOrDictionary\bin\Debug\11 - TaskListOrDictionary.pdb
+D:\Документы Владмира\C# Jun\Works\Task's\11 - TaskListOrDictionary\11 - TaskListOrDictionary\obj\Debug\11 - TaskListOrDictionary.csprojAssemblyReference.cache
+D:\Документы Владмира\C# Jun\Works\Task's\11 - TaskListOrDictionary\11 - TaskListOrDictionary\obj\Debug\11 - TaskListOrDictionary.csproj.CoreCompileInputs.cache
+D:\Документы Владмира\C# Jun\Works\Task's\11 - TaskListOrDictionary\11 - TaskListOrDictionary\obj\Debug\11 - TaskListOrDictionary.exe
+D:\Документы Владмира\C# Jun\Works\Task's\11 - TaskListOrDictionary\11 - TaskListOrDictionary\obj\Debug\11 - TaskListOrDictionary.pdb

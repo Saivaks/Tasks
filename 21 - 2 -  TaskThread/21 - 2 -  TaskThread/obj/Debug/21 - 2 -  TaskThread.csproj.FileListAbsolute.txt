@@ -1,0 +1,14 @@
+C:\Users\пк\source\repos\21 - 2 -  TaskThread\21 - 2 -  TaskThread\bin\Debug\21 - 2 -  TaskThread.exe.config
+C:\Users\пк\source\repos\21 - 2 -  TaskThread\21 - 2 -  TaskThread\bin\Debug\21 - 2 -  TaskThread.exe
+C:\Users\пк\source\repos\21 - 2 -  TaskThread\21 - 2 -  TaskThread\bin\Debug\21 - 2 -  TaskThread.pdb
+C:\Users\пк\source\repos\21 - 2 -  TaskThread\21 - 2 -  TaskThread\obj\Debug\21 - 2 -  TaskThread.csprojAssemblyReference.cache
+C:\Users\пк\source\repos\21 - 2 -  TaskThread\21 - 2 -  TaskThread\obj\Debug\21 - 2 -  TaskThread.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\21 - 2 -  TaskThread\21 - 2 -  TaskThread\obj\Debug\21 - 2 -  TaskThread.exe
+C:\Users\пк\source\repos\21 - 2 -  TaskThread\21 - 2 -  TaskThread\obj\Debug\21 - 2 -  TaskThread.pdb
+D:\Документы Владмира\C# Jun\Works\Task's\21 - 2 -  TaskThread\21 - 2 -  TaskThread\bin\Debug\21 - 2 -  TaskThread.exe.config
+D:\Документы Владмира\C# Jun\Works\Task's\21 - 2 -  TaskThread\21 - 2 -  TaskThread\bin\Debug\21 - 2 -  TaskThread.exe
+D:\Документы Владмира\C# Jun\Works\Task's\21 - 2 -  TaskThread\21 - 2 -  TaskThread\bin\Debug\21 - 2 -  TaskThread.pdb
+D:\Документы Владмира\C# Jun\Works\Task's\21 - 2 -  TaskThread\21 - 2 -  TaskThread\obj\Debug\21 - 2 -  TaskThread.csprojAssemblyReference.cache
+D:\Документы Владмира\C# Jun\Works\Task's\21 - 2 -  TaskThread\21 - 2 -  TaskThread\obj\Debug\21 - 2 -  TaskThread.csproj.CoreCompileInputs.cache
+D:\Документы Владмира\C# Jun\Works\Task's\21 - 2 -  TaskThread\21 - 2 -  TaskThread\obj\Debug\21 - 2 -  TaskThread.exe
+D:\Документы Владмира\C# Jun\Works\Task's\21 - 2 -  TaskThread\21 - 2 -  TaskThread\obj\Debug\21 - 2 -  TaskThread.pdb

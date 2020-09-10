@@ -1,0 +1,14 @@
+C:\Users\пк\source\repos\17 - TaskExtentions\17 - TaskExtentions\bin\Debug\17 - TaskExtentions.exe.config
+C:\Users\пк\source\repos\17 - TaskExtentions\17 - TaskExtentions\bin\Debug\17 - TaskExtentions.exe
+C:\Users\пк\source\repos\17 - TaskExtentions\17 - TaskExtentions\bin\Debug\17 - TaskExtentions.pdb
+C:\Users\пк\source\repos\17 - TaskExtentions\17 - TaskExtentions\obj\Debug\17 - TaskExtentions.csprojAssemblyReference.cache
+C:\Users\пк\source\repos\17 - TaskExtentions\17 - TaskExtentions\obj\Debug\17 - TaskExtentions.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\17 - TaskExtentions\17 - TaskExtentions\obj\Debug\17 - TaskExtentions.exe
+C:\Users\пк\source\repos\17 - TaskExtentions\17 - TaskExtentions\obj\Debug\17 - TaskExtentions.pdb
+D:\Документы Владмира\C# Jun\Works\Task's\17 - TaskExtentions\17 - TaskExtentions\bin\Debug\17 - TaskExtentions.exe.config
+D:\Документы Владмира\C# Jun\Works\Task's\17 - TaskExtentions\17 - TaskExtentions\bin\Debug\17 - TaskExtentions.exe
+D:\Документы Владмира\C# Jun\Works\Task's\17 - TaskExtentions\17 - TaskExtentions\bin\Debug\17 - TaskExtentions.pdb
+D:\Документы Владмира\C# Jun\Works\Task's\17 - TaskExtentions\17 - TaskExtentions\obj\Debug\17 - TaskExtentions.csprojAssemblyReference.cache
+D:\Документы Владмира\C# Jun\Works\Task's\17 - TaskExtentions\17 - TaskExtentions\obj\Debug\17 - TaskExtentions.csproj.CoreCompileInputs.cache
+D:\Документы Владмира\C# Jun\Works\Task's\17 - TaskExtentions\17 - TaskExtentions\obj\Debug\17 - TaskExtentions.exe
+D:\Документы Владмира\C# Jun\Works\Task's\17 - TaskExtentions\17 - TaskExtentions\obj\Debug\17 - TaskExtentions.pdb

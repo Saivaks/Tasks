@@ -1,0 +1,52 @@
+C:\Users\пк\source\repos\19 - TaskSerialize\19 - TaskSerialize\bin\Debug\19 - TaskSerialize.exe.config
+C:\Users\пк\source\repos\19 - TaskSerialize\19 - TaskSerialize\bin\Debug\19 - TaskSerialize.exe
+C:\Users\пк\source\repos\19 - TaskSerialize\19 - TaskSerialize\bin\Debug\19 - TaskSerialize.pdb
+C:\Users\пк\source\repos\19 - TaskSerialize\19 - TaskSerialize\obj\Debug\19 - TaskSerialize.csprojAssemblyReference.cache
+C:\Users\пк\source\repos\19 - TaskSerialize\19 - TaskSerialize\obj\Debug\19 - TaskSerialize.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\19 - TaskSerialize\19 - TaskSerialize\obj\Debug\19 - TaskSerialize.exe
+C:\Users\пк\source\repos\19 - TaskSerialize\19 - TaskSerialize\obj\Debug\19 - TaskSerialize.pdb
+C:\Users\пк\source\repos\19 - TaskSerialize\19 - TaskSerialize\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\пк\source\repos\19 - TaskSerialize\19 - TaskSerialize\bin\Debug\System.Buffers.dll
+C:\Users\пк\source\repos\19 - TaskSerialize\19 - TaskSerialize\bin\Debug\System.Memory.dll
+C:\Users\пк\source\repos\19 - TaskSerialize\19 - TaskSerialize\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\пк\source\repos\19 - TaskSerialize\19 - TaskSerialize\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\пк\source\repos\19 - TaskSerialize\19 - TaskSerialize\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\пк\source\repos\19 - TaskSerialize\19 - TaskSerialize\bin\Debug\System.Text.Json.dll
+C:\Users\пк\source\repos\19 - TaskSerialize\19 - TaskSerialize\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\пк\source\repos\19 - TaskSerialize\19 - TaskSerialize\bin\Debug\System.ValueTuple.dll
+C:\Users\пк\source\repos\19 - TaskSerialize\19 - TaskSerialize\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\пк\source\repos\19 - TaskSerialize\19 - TaskSerialize\bin\Debug\System.Buffers.xml
+C:\Users\пк\source\repos\19 - TaskSerialize\19 - TaskSerialize\bin\Debug\System.Memory.xml
+C:\Users\пк\source\repos\19 - TaskSerialize\19 - TaskSerialize\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\пк\source\repos\19 - TaskSerialize\19 - TaskSerialize\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\пк\source\repos\19 - TaskSerialize\19 - TaskSerialize\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\пк\source\repos\19 - TaskSerialize\19 - TaskSerialize\bin\Debug\System.Text.Json.xml
+C:\Users\пк\source\repos\19 - TaskSerialize\19 - TaskSerialize\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\пк\source\repos\19 - TaskSerialize\19 - TaskSerialize\bin\Debug\System.ValueTuple.xml
+C:\Users\пк\source\repos\19 - TaskSerialize\19 - TaskSerialize\obj\Debug\19 - TaskSerialize.csproj.CopyComplete
+D:\Документы Владмира\C# Jun\Works\Task's\19 - TaskSerialize\19 - TaskSerialize\bin\Debug\19 - TaskSerialize.exe.config
+D:\Документы Владмира\C# Jun\Works\Task's\19 - TaskSerialize\19 - TaskSerialize\bin\Debug\19 - TaskSerialize.exe
+D:\Документы Владмира\C# Jun\Works\Task's\19 - TaskSerialize\19 - TaskSerialize\bin\Debug\19 - TaskSerialize.pdb
+D:\Документы Владмира\C# Jun\Works\Task's\19 - TaskSerialize\19 - TaskSerialize\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Документы Владмира\C# Jun\Works\Task's\19 - TaskSerialize\19 - TaskSerialize\bin\Debug\System.Buffers.dll
+D:\Документы Владмира\C# Jun\Works\Task's\19 - TaskSerialize\19 - TaskSerialize\bin\Debug\System.Memory.dll
+D:\Документы Владмира\C# Jun\Works\Task's\19 - TaskSerialize\19 - TaskSerialize\bin\Debug\System.Numerics.Vectors.dll
+D:\Документы Владмира\C# Jun\Works\Task's\19 - TaskSerialize\19 - TaskSerialize\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Документы Владмира\C# Jun\Works\Task's\19 - TaskSerialize\19 - TaskSerialize\bin\Debug\System.Text.Encodings.Web.dll
+D:\Документы Владмира\C# Jun\Works\Task's\19 - TaskSerialize\19 - TaskSerialize\bin\Debug\System.Text.Json.dll
+D:\Документы Владмира\C# Jun\Works\Task's\19 - TaskSerialize\19 - TaskSerialize\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Документы Владмира\C# Jun\Works\Task's\19 - TaskSerialize\19 - TaskSerialize\bin\Debug\System.ValueTuple.dll
+D:\Документы Владмира\C# Jun\Works\Task's\19 - TaskSerialize\19 - TaskSerialize\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Документы Владмира\C# Jun\Works\Task's\19 - TaskSerialize\19 - TaskSerialize\bin\Debug\System.Buffers.xml
+D:\Документы Владмира\C# Jun\Works\Task's\19 - TaskSerialize\19 - TaskSerialize\bin\Debug\System.Memory.xml
+D:\Документы Владмира\C# Jun\Works\Task's\19 - TaskSerialize\19 - TaskSerialize\bin\Debug\System.Numerics.Vectors.xml
+D:\Документы Владмира\C# Jun\Works\Task's\19 - TaskSerialize\19 - TaskSerialize\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Документы Владмира\C# Jun\Works\Task's\19 - TaskSerialize\19 - TaskSerialize\bin\Debug\System.Text.Encodings.Web.xml
+D:\Документы Владмира\C# Jun\Works\Task's\19 - TaskSerialize\19 - TaskSerialize\bin\Debug\System.Text.Json.xml
+D:\Документы Владмира\C# Jun\Works\Task's\19 - TaskSerialize\19 - TaskSerialize\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Документы Владмира\C# Jun\Works\Task's\19 - TaskSerialize\19 - TaskSerialize\bin\Debug\System.ValueTuple.xml
+D:\Документы Владмира\C# Jun\Works\Task's\19 - TaskSerialize\19 - TaskSerialize\obj\Debug\19 - TaskSerialize.csprojAssemblyReference.cache
+D:\Документы Владмира\C# Jun\Works\Task's\19 - TaskSerialize\19 - TaskSerialize\obj\Debug\19 - TaskSerialize.csproj.CoreCompileInputs.cache
+D:\Документы Владмира\C# Jun\Works\Task's\19 - TaskSerialize\19 - TaskSerialize\obj\Debug\19 - TaskSerialize.csproj.CopyComplete
+D:\Документы Владмира\C# Jun\Works\Task's\19 - TaskSerialize\19 - TaskSerialize\obj\Debug\19 - TaskSerialize.exe
+D:\Документы Владмира\C# Jun\Works\Task's\19 - TaskSerialize\19 - TaskSerialize\obj\Debug\19 - TaskSerialize.pdb

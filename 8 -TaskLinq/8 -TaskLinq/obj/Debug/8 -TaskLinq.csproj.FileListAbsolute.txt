@@ -1,0 +1,14 @@
+C:\Users\пк\source\repos\8 -TaskLinq\8 -TaskLinq\bin\Debug\8 -TaskLinq.exe.config
+C:\Users\пк\source\repos\8 -TaskLinq\8 -TaskLinq\bin\Debug\8 -TaskLinq.exe
+C:\Users\пк\source\repos\8 -TaskLinq\8 -TaskLinq\bin\Debug\8 -TaskLinq.pdb
+C:\Users\пк\source\repos\8 -TaskLinq\8 -TaskLinq\obj\Debug\8 -TaskLinq.csprojAssemblyReference.cache
+C:\Users\пк\source\repos\8 -TaskLinq\8 -TaskLinq\obj\Debug\8 -TaskLinq.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\8 -TaskLinq\8 -TaskLinq\obj\Debug\8 -TaskLinq.exe
+C:\Users\пк\source\repos\8 -TaskLinq\8 -TaskLinq\obj\Debug\8 -TaskLinq.pdb
+D:\Документы Владмира\C# Jun\Works\Task's\8 -TaskLinq\8 -TaskLinq\bin\Debug\8 -TaskLinq.exe.config
+D:\Документы Владмира\C# Jun\Works\Task's\8 -TaskLinq\8 -TaskLinq\bin\Debug\8 -TaskLinq.exe
+D:\Документы Владмира\C# Jun\Works\Task's\8 -TaskLinq\8 -TaskLinq\bin\Debug\8 -TaskLinq.pdb
+D:\Документы Владмира\C# Jun\Works\Task's\8 -TaskLinq\8 -TaskLinq\obj\Debug\8 -TaskLinq.csprojAssemblyReference.cache
+D:\Документы Владмира\C# Jun\Works\Task's\8 -TaskLinq\8 -TaskLinq\obj\Debug\8 -TaskLinq.csproj.CoreCompileInputs.cache
+D:\Документы Владмира\C# Jun\Works\Task's\8 -TaskLinq\8 -TaskLinq\obj\Debug\8 -TaskLinq.exe
+D:\Документы Владмира\C# Jun\Works\Task's\8 -TaskLinq\8 -TaskLinq\obj\Debug\8 -TaskLinq.pdb

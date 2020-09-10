@@ -1,0 +1,14 @@
+C:\Users\пк\source\repos\14 - TaskEvents\14 - TaskEvents\bin\Debug\14 - TaskEvents.exe.config
+C:\Users\пк\source\repos\14 - TaskEvents\14 - TaskEvents\bin\Debug\14 - TaskEvents.exe
+C:\Users\пк\source\repos\14 - TaskEvents\14 - TaskEvents\bin\Debug\14 - TaskEvents.pdb
+C:\Users\пк\source\repos\14 - TaskEvents\14 - TaskEvents\obj\Debug\14 - TaskEvents.csprojAssemblyReference.cache
+C:\Users\пк\source\repos\14 - TaskEvents\14 - TaskEvents\obj\Debug\14 - TaskEvents.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\14 - TaskEvents\14 - TaskEvents\obj\Debug\14 - TaskEvents.exe
+C:\Users\пк\source\repos\14 - TaskEvents\14 - TaskEvents\obj\Debug\14 - TaskEvents.pdb
+D:\Документы Владмира\C# Jun\Works\Task's\14 - TaskEvents\14 - TaskEvents\bin\Debug\14 - TaskEvents.exe.config
+D:\Документы Владмира\C# Jun\Works\Task's\14 - TaskEvents\14 - TaskEvents\bin\Debug\14 - TaskEvents.exe
+D:\Документы Владмира\C# Jun\Works\Task's\14 - TaskEvents\14 - TaskEvents\bin\Debug\14 - TaskEvents.pdb
+D:\Документы Владмира\C# Jun\Works\Task's\14 - TaskEvents\14 - TaskEvents\obj\Debug\14 - TaskEvents.csprojAssemblyReference.cache
+D:\Документы Владмира\C# Jun\Works\Task's\14 - TaskEvents\14 - TaskEvents\obj\Debug\14 - TaskEvents.csproj.CoreCompileInputs.cache
+D:\Документы Владмира\C# Jun\Works\Task's\14 - TaskEvents\14 - TaskEvents\obj\Debug\14 - TaskEvents.exe
+D:\Документы Владмира\C# Jun\Works\Task's\14 - TaskEvents\14 - TaskEvents\obj\Debug\14 - TaskEvents.pdb

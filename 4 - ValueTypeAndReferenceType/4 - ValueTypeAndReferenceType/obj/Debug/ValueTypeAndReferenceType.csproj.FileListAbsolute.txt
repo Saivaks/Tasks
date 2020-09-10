@@ -1,0 +1,14 @@
+C:\Users\пк\source\repos\4 - ValueTypeAndReferenceType\4 - ValueTypeAndReferenceType\bin\Debug\4 - ValueTypeAndReferenceType.exe.config
+C:\Users\пк\source\repos\4 - ValueTypeAndReferenceType\4 - ValueTypeAndReferenceType\bin\Debug\4 - ValueTypeAndReferenceType.exe
+C:\Users\пк\source\repos\4 - ValueTypeAndReferenceType\4 - ValueTypeAndReferenceType\bin\Debug\4 - ValueTypeAndReferenceType.pdb
+C:\Users\пк\source\repos\4 - ValueTypeAndReferenceType\4 - ValueTypeAndReferenceType\obj\Debug\ValueTypeAndReferenceType.csprojAssemblyReference.cache
+C:\Users\пк\source\repos\4 - ValueTypeAndReferenceType\4 - ValueTypeAndReferenceType\obj\Debug\ValueTypeAndReferenceType.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\4 - ValueTypeAndReferenceType\4 - ValueTypeAndReferenceType\obj\Debug\4 - ValueTypeAndReferenceType.exe
+C:\Users\пк\source\repos\4 - ValueTypeAndReferenceType\4 - ValueTypeAndReferenceType\obj\Debug\4 - ValueTypeAndReferenceType.pdb
+D:\Документы Владмира\C# Jun\Works\Task's\4 - ValueTypeAndReferenceType\4 - ValueTypeAndReferenceType\bin\Debug\4 - ValueTypeAndReferenceType.exe.config
+D:\Документы Владмира\C# Jun\Works\Task's\4 - ValueTypeAndReferenceType\4 - ValueTypeAndReferenceType\bin\Debug\4 - ValueTypeAndReferenceType.exe
+D:\Документы Владмира\C# Jun\Works\Task's\4 - ValueTypeAndReferenceType\4 - ValueTypeAndReferenceType\bin\Debug\4 - ValueTypeAndReferenceType.pdb
+D:\Документы Владмира\C# Jun\Works\Task's\4 - ValueTypeAndReferenceType\4 - ValueTypeAndReferenceType\obj\Debug\ValueTypeAndReferenceType.csprojAssemblyReference.cache
+D:\Документы Владмира\C# Jun\Works\Task's\4 - ValueTypeAndReferenceType\4 - ValueTypeAndReferenceType\obj\Debug\ValueTypeAndReferenceType.csproj.CoreCompileInputs.cache
+D:\Документы Владмира\C# Jun\Works\Task's\4 - ValueTypeAndReferenceType\4 - ValueTypeAndReferenceType\obj\Debug\4 - ValueTypeAndReferenceType.exe
+D:\Документы Владмира\C# Jun\Works\Task's\4 - ValueTypeAndReferenceType\4 - ValueTypeAndReferenceType\obj\Debug\4 - ValueTypeAndReferenceType.pdb

@@ -1,0 +1,14 @@
+C:\Users\пк\source\repos\9 - TaskComparable\9 - TaskComparable\bin\Debug\9 - TaskComparable.exe.config
+C:\Users\пк\source\repos\9 - TaskComparable\9 - TaskComparable\bin\Debug\9 - TaskComparable.exe
+C:\Users\пк\source\repos\9 - TaskComparable\9 - TaskComparable\bin\Debug\9 - TaskComparable.pdb
+C:\Users\пк\source\repos\9 - TaskComparable\9 - TaskComparable\obj\Debug\9 - TaskComparable.csprojAssemblyReference.cache
+C:\Users\пк\source\repos\9 - TaskComparable\9 - TaskComparable\obj\Debug\9 - TaskComparable.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\9 - TaskComparable\9 - TaskComparable\obj\Debug\9 - TaskComparable.exe
+C:\Users\пк\source\repos\9 - TaskComparable\9 - TaskComparable\obj\Debug\9 - TaskComparable.pdb
+D:\Документы Владмира\C# Jun\Works\Task's\9 - TaskComparable\9 - TaskComparable\bin\Debug\9 - TaskComparable.exe.config
+D:\Документы Владмира\C# Jun\Works\Task's\9 - TaskComparable\9 - TaskComparable\bin\Debug\9 - TaskComparable.exe
+D:\Документы Владмира\C# Jun\Works\Task's\9 - TaskComparable\9 - TaskComparable\bin\Debug\9 - TaskComparable.pdb
+D:\Документы Владмира\C# Jun\Works\Task's\9 - TaskComparable\9 - TaskComparable\obj\Debug\9 - TaskComparable.csprojAssemblyReference.cache
+D:\Документы Владмира\C# Jun\Works\Task's\9 - TaskComparable\9 - TaskComparable\obj\Debug\9 - TaskComparable.csproj.CoreCompileInputs.cache
+D:\Документы Владмира\C# Jun\Works\Task's\9 - TaskComparable\9 - TaskComparable\obj\Debug\9 - TaskComparable.exe
+D:\Документы Владмира\C# Jun\Works\Task's\9 - TaskComparable\9 - TaskComparable\obj\Debug\9 - TaskComparable.pdb

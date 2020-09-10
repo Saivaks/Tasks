@@ -1,0 +1,14 @@
+C:\Users\пк\source\repos\10 - TaskEquals\10 - TaskEquals\bin\Debug\10 - TaskEquals.exe.config
+C:\Users\пк\source\repos\10 - TaskEquals\10 - TaskEquals\bin\Debug\10 - TaskEquals.exe
+C:\Users\пк\source\repos\10 - TaskEquals\10 - TaskEquals\bin\Debug\10 - TaskEquals.pdb
+C:\Users\пк\source\repos\10 - TaskEquals\10 - TaskEquals\obj\Debug\10 - TaskEquals.csprojAssemblyReference.cache
+C:\Users\пк\source\repos\10 - TaskEquals\10 - TaskEquals\obj\Debug\10 - TaskEquals.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\10 - TaskEquals\10 - TaskEquals\obj\Debug\10 - TaskEquals.exe
+C:\Users\пк\source\repos\10 - TaskEquals\10 - TaskEquals\obj\Debug\10 - TaskEquals.pdb
+D:\Документы Владмира\C# Jun\Works\Task's\10 - TaskEquals\10 - TaskEquals\bin\Debug\10 - TaskEquals.exe.config
+D:\Документы Владмира\C# Jun\Works\Task's\10 - TaskEquals\10 - TaskEquals\bin\Debug\10 - TaskEquals.exe
+D:\Документы Владмира\C# Jun\Works\Task's\10 - TaskEquals\10 - TaskEquals\bin\Debug\10 - TaskEquals.pdb
+D:\Документы Владмира\C# Jun\Works\Task's\10 - TaskEquals\10 - TaskEquals\obj\Debug\10 - TaskEquals.csprojAssemblyReference.cache
+D:\Документы Владмира\C# Jun\Works\Task's\10 - TaskEquals\10 - TaskEquals\obj\Debug\10 - TaskEquals.csproj.CoreCompileInputs.cache
+D:\Документы Владмира\C# Jun\Works\Task's\10 - TaskEquals\10 - TaskEquals\obj\Debug\10 - TaskEquals.exe
+D:\Документы Владмира\C# Jun\Works\Task's\10 - TaskEquals\10 - TaskEquals\obj\Debug\10 - TaskEquals.pdb

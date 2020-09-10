@@ -1,0 +1,20 @@
+C:\Users\пк\source\repos\18 - TaskReflection\18 - TaskReflection\bin\Debug\18 - TaskReflection.exe.config
+C:\Users\пк\source\repos\18 - TaskReflection\18 - TaskReflection\bin\Debug\18 - TaskReflection.exe
+C:\Users\пк\source\repos\18 - TaskReflection\18 - TaskReflection\bin\Debug\18 - TaskReflection.pdb
+C:\Users\пк\source\repos\18 - TaskReflection\18 - TaskReflection\bin\Debug\MyLibShapes.dll
+C:\Users\пк\source\repos\18 - TaskReflection\18 - TaskReflection\bin\Debug\MyLibShapes.pdb
+C:\Users\пк\source\repos\18 - TaskReflection\18 - TaskReflection\obj\Debug\18 - TaskReflection.csprojAssemblyReference.cache
+C:\Users\пк\source\repos\18 - TaskReflection\18 - TaskReflection\obj\Debug\18 - TaskReflection.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\18 - TaskReflection\18 - TaskReflection\obj\Debug\18 - TaskReflection.csproj.CopyComplete
+C:\Users\пк\source\repos\18 - TaskReflection\18 - TaskReflection\obj\Debug\18 - TaskReflection.exe
+C:\Users\пк\source\repos\18 - TaskReflection\18 - TaskReflection\obj\Debug\18 - TaskReflection.pdb
+D:\Документы Владмира\C# Jun\Works\Task's\18 - TaskReflection\18 - TaskReflection\bin\Debug\18 - TaskReflection.exe.config
+D:\Документы Владмира\C# Jun\Works\Task's\18 - TaskReflection\18 - TaskReflection\bin\Debug\18 - TaskReflection.exe
+D:\Документы Владмира\C# Jun\Works\Task's\18 - TaskReflection\18 - TaskReflection\bin\Debug\18 - TaskReflection.pdb
+D:\Документы Владмира\C# Jun\Works\Task's\18 - TaskReflection\18 - TaskReflection\bin\Debug\MyLibShapes.dll
+D:\Документы Владмира\C# Jun\Works\Task's\18 - TaskReflection\18 - TaskReflection\bin\Debug\MyLibShapes.pdb
+D:\Документы Владмира\C# Jun\Works\Task's\18 - TaskReflection\18 - TaskReflection\obj\Debug\18 - TaskReflection.csprojAssemblyReference.cache
+D:\Документы Владмира\C# Jun\Works\Task's\18 - TaskReflection\18 - TaskReflection\obj\Debug\18 - TaskReflection.csproj.CoreCompileInputs.cache
+D:\Документы Владмира\C# Jun\Works\Task's\18 - TaskReflection\18 - TaskReflection\obj\Debug\18 - TaskReflection.csproj.CopyComplete
+D:\Документы Владмира\C# Jun\Works\Task's\18 - TaskReflection\18 - TaskReflection\obj\Debug\18 - TaskReflection.exe
+D:\Документы Владмира\C# Jun\Works\Task's\18 - TaskReflection\18 - TaskReflection\obj\Debug\18 - TaskReflection.pdb

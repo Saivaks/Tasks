@@ -1,0 +1,14 @@
+C:\Users\пк\source\repos\Shapes\Shapes\bin\Debug\Shapes.exe.config
+C:\Users\пк\source\repos\Shapes\Shapes\bin\Debug\Shapes.exe
+C:\Users\пк\source\repos\Shapes\Shapes\bin\Debug\Shapes.pdb
+C:\Users\пк\source\repos\Shapes\Shapes\obj\Debug\Shapes.csprojAssemblyReference.cache
+C:\Users\пк\source\repos\Shapes\Shapes\obj\Debug\Shapes.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\Shapes\Shapes\obj\Debug\Shapes.exe
+C:\Users\пк\source\repos\Shapes\Shapes\obj\Debug\Shapes.pdb
+D:\Документы Владмира\C# Jun\Works\Task's\3 - Shapes\Shapes\bin\Debug\Shapes.exe.config
+D:\Документы Владмира\C# Jun\Works\Task's\3 - Shapes\Shapes\bin\Debug\Shapes.exe
+D:\Документы Владмира\C# Jun\Works\Task's\3 - Shapes\Shapes\bin\Debug\Shapes.pdb
+D:\Документы Владмира\C# Jun\Works\Task's\3 - Shapes\Shapes\obj\Debug\Shapes.csprojAssemblyReference.cache
+D:\Документы Владмира\C# Jun\Works\Task's\3 - Shapes\Shapes\obj\Debug\Shapes.csproj.CoreCompileInputs.cache
+D:\Документы Владмира\C# Jun\Works\Task's\3 - Shapes\Shapes\obj\Debug\Shapes.exe
+D:\Документы Владмира\C# Jun\Works\Task's\3 - Shapes\Shapes\obj\Debug\Shapes.pdb
