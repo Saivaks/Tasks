@@ -1,0 +1,5 @@
+D:\Документы Владмира\C# Jun\Works\Task's С#\JunProject\LibShapes\bin\Debug\LibShapes.dll
+D:\Документы Владмира\C# Jun\Works\Task's С#\JunProject\LibShapes\bin\Debug\LibShapes.pdb
+D:\Документы Владмира\C# Jun\Works\Task's С#\JunProject\LibShapes\obj\Debug\LibShapes.csproj.CoreCompileInputs.cache
+D:\Документы Владмира\C# Jun\Works\Task's С#\JunProject\LibShapes\obj\Debug\LibShapes.dll
+D:\Документы Владмира\C# Jun\Works\Task's С#\JunProject\LibShapes\obj\Debug\LibShapes.pdb

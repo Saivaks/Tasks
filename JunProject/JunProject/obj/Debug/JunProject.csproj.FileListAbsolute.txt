@@ -1,0 +1,52 @@
+D:\Документы Владмира\C# Jun\Works\Task's С#\JunProject\JunProject\bin\Debug\JunProject.exe.config
+D:\Документы Владмира\C# Jun\Works\Task's С#\JunProject\JunProject\bin\Debug\JunProject.exe
+D:\Документы Владмира\C# Jun\Works\Task's С#\JunProject\JunProject\bin\Debug\JunProject.pdb
+D:\Документы Владмира\C# Jun\Works\Task's С#\JunProject\JunProject\bin\Debug\Shapes.exe
+D:\Документы Владмира\C# Jun\Works\Task's С#\JunProject\JunProject\bin\Debug\Shapes.pdb
+D:\Документы Владмира\C# Jun\Works\Task's С#\JunProject\JunProject\bin\Debug\Shapes.exe.config
+D:\Документы Владмира\C# Jun\Works\Task's С#\JunProject\JunProject\obj\Debug\JunProject.csprojAssemblyReference.cache
+D:\Документы Владмира\C# Jun\Works\Task's С#\JunProject\JunProject\obj\Debug\JunProject.csproj.CoreCompileInputs.cache
+D:\Документы Владмира\C# Jun\Works\Task's С#\JunProject\JunProject\obj\Debug\JunProject.csproj.CopyComplete
+D:\Документы Владмира\C# Jun\Works\Task's С#\JunProject\JunProject\obj\Debug\JunProject.exe
+D:\Документы Владмира\C# Jun\Works\Task's С#\JunProject\JunProject\obj\Debug\JunProject.pdb
+D:\Документы Владмира\C# Jun\Works\Task's С#\JunProject\JunProject\bin\Debug\4 - ValueTypeAndReferenceType.exe
+D:\Документы Владмира\C# Jun\Works\Task's С#\JunProject\JunProject\bin\Debug\4 - ValueTypeAndReferenceType.pdb
+D:\Документы Владмира\C# Jun\Works\Task's С#\JunProject\JunProject\bin\Debug\4 - ValueTypeAndReferenceType.exe.config
+D:\Документы Владмира\C# Jun\Works\Task's С#\JunProject\JunProject\bin\Debug\5 - TypeConversion.exe
+D:\Документы Владмира\C# Jun\Works\Task's С#\JunProject\JunProject\bin\Debug\5 - TypeConversion.pdb
+D:\Документы Владмира\C# Jun\Works\Task's С#\JunProject\JunProject\bin\Debug\5 - TypeConversion.exe.config
+D:\Документы Владмира\C# Jun\Works\Task's С#\JunProject\JunProject\bin\Debug\7 - TaskEnumerable.exe
+D:\Документы Владмира\C# Jun\Works\Task's С#\JunProject\JunProject\bin\Debug\7 - TaskEnumerable.pdb
+D:\Документы Владмира\C# Jun\Works\Task's С#\JunProject\JunProject\bin\Debug\7 - TaskEnumerable.exe.config
+D:\Документы Владмира\C# Jun\Works\Task's С#\JunProject\JunProject\bin\Debug\8 -TaskLinq.exe
+D:\Документы Владмира\C# Jun\Works\Task's С#\JunProject\JunProject\bin\Debug\8 -TaskLinq.pdb
+D:\Документы Владмира\C# Jun\Works\Task's С#\JunProject\JunProject\bin\Debug\8 -TaskLinq.exe.config
+D:\Документы Владмира\C# Jun\Works\Task's С#\JunProject\JunProject\bin\Debug\9 - TaskComparable.exe
+D:\Документы Владмира\C# Jun\Works\Task's С#\JunProject\JunProject\bin\Debug\9 - TaskComparable.pdb
+D:\Документы Владмира\C# Jun\Works\Task's С#\JunProject\JunProject\bin\Debug\9 - TaskComparable.exe.config
+D:\Документы Владмира\C# Jun\Works\Task's С#\JunProject\JunProject\bin\Debug\10 - TaskEquals.exe
+D:\Документы Владмира\C# Jun\Works\Task's С#\JunProject\JunProject\bin\Debug\10 - TaskEquals.pdb
+D:\Документы Владмира\C# Jun\Works\Task's С#\JunProject\JunProject\bin\Debug\10 - TaskEquals.exe.config
+D:\Документы Владмира\C# Jun\Works\Task's С#\JunProject\JunProject\bin\Debug\11 - TaskListOrDictionary.exe
+D:\Документы Владмира\C# Jun\Works\Task's С#\JunProject\JunProject\bin\Debug\11 - TaskListOrDictionary.pdb
+D:\Документы Владмира\C# Jun\Works\Task's С#\JunProject\JunProject\bin\Debug\11 - TaskListOrDictionary.exe.config
+D:\Документы Владмира\C# Jun\Works\Task's С#\JunProject\JunProject\bin\Debug\12 - TaskGenericMember.exe
+D:\Документы Владмира\C# Jun\Works\Task's С#\JunProject\JunProject\bin\Debug\12 - TaskGenericMember.pdb
+D:\Документы Владмира\C# Jun\Works\Task's С#\JunProject\JunProject\bin\Debug\12 - TaskGenericMember.exe.config
+D:\Документы Владмира\C# Jun\Works\Task's С#\JunProject\JunProject\bin\Debug\14 - TaskEvents.exe
+D:\Документы Владмира\C# Jun\Works\Task's С#\JunProject\JunProject\bin\Debug\14 - TaskEvents.pdb
+D:\Документы Владмира\C# Jun\Works\Task's С#\JunProject\JunProject\bin\Debug\14 - TaskEvents.exe.config
+D:\Документы Владмира\C# Jun\Works\Task's С#\JunProject\JunProject\bin\Debug\17 - TaskExtentions.exe
+D:\Документы Владмира\C# Jun\Works\Task's С#\JunProject\JunProject\bin\Debug\17 - TaskExtentions.pdb
+D:\Документы Владмира\C# Jun\Works\Task's С#\JunProject\JunProject\bin\Debug\17 - TaskExtentions.exe.config
+D:\Документы Владмира\C# Jun\Works\Task's С#\JunProject\JunProject\bin\Debug\18 - TaskReflection.exe
+D:\Документы Владмира\C# Jun\Works\Task's С#\JunProject\JunProject\bin\Debug\18 - TaskReflection.pdb
+D:\Документы Владмира\C# Jun\Works\Task's С#\JunProject\JunProject\bin\Debug\18 - TaskReflection.exe.config
+D:\Документы Владмира\C# Jun\Works\Task's С#\JunProject\JunProject\bin\Debug\LibShapes.dll
+D:\Документы Владмира\C# Jun\Works\Task's С#\JunProject\JunProject\bin\Debug\LibShapes.pdb
+D:\Документы Владмира\C# Jun\Works\Task's С#\JunProject\JunProject\bin\Debug\19 - TaskSerialize.exe
+D:\Документы Владмира\C# Jun\Works\Task's С#\JunProject\JunProject\bin\Debug\19 - TaskSerialize.pdb
+D:\Документы Владмира\C# Jun\Works\Task's С#\JunProject\JunProject\bin\Debug\19 - TaskSerialize.exe.config
+D:\Документы Владмира\C# Jun\Works\Task's С#\JunProject\JunProject\bin\Debug\20 - TaskRegular.exe
+D:\Документы Владмира\C# Jun\Works\Task's С#\JunProject\JunProject\bin\Debug\20 - TaskRegular.pdb
+D:\Документы Владмира\C# Jun\Works\Task's С#\JunProject\JunProject\bin\Debug\20 - TaskRegular.exe.config

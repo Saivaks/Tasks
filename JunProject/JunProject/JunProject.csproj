@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{36741E8F-2FEF-4D8C-8EFE-BDAC77A4F714}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>JunProject</RootNamespace>
+    <AssemblyName>JunProject</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="C:\Users\пк\Desktop\Раб док\GitHub\Task%27s С#\10 - TaskEquals\10 - TaskEquals\TaskEquals.csproj">
+      <Project>{19edbd17-9b06-4b35-b004-5328452a2e72}</Project>
+      <Name>TaskEquals</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\пк\Desktop\Раб док\GitHub\Task%27s С#\11 - TaskListOrDictionary\11 - TaskListOrDictionary\TaskListOrDictionary.csproj">
+      <Project>{26d3e23e-d703-4a44-95a9-48c1ca3318a9}</Project>
+      <Name>TaskListOrDictionary</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\пк\Desktop\Раб док\GitHub\Task%27s С#\12 - TaskGenericMember\12 - TaskGenericMember\TaskGenericMember.csproj">
+      <Project>{bf2ba396-7531-488c-aaa0-344d61816811}</Project>
+      <Name>TaskGenericMember</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\пк\Desktop\Раб док\GitHub\Task%27s С#\14 - TaskEvents\14 - TaskEvents\TaskEvents.csproj">
+      <Project>{9789db63-1dfd-4b7a-88a6-9018a63b9e5f}</Project>
+      <Name>TaskEvents</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\пк\Desktop\Раб док\GitHub\Task%27s С#\17 - TaskExtentions\17 - TaskExtentions\TaskExtentions.csproj">
+      <Project>{3335e838-3f65-4d99-916a-fdc501a9fde7}</Project>
+      <Name>TaskExtentions</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\пк\Desktop\Раб док\GitHub\Task%27s С#\19 - TaskSerialize\19 - TaskSerialize\TaskSerialize.csproj">
+      <Project>{333b7d25-c3ac-4d48-8264-655c4f99f343}</Project>
+      <Name>TaskSerialize</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\пк\Desktop\Раб док\GitHub\Task%27s С#\20 - TaskRegular\20 - TaskRegular\TaskRegular.csproj">
+      <Project>{1a1c656a-2121-4348-bb13-f77ea1811404}</Project>
+      <Name>TaskRegular</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\пк\Desktop\Раб док\GitHub\Task%27s С#\3 - Shapes\Shapes\Shapes.csproj">
+      <Project>{cdc5ec3d-dbd6-4cd4-9d97-8da87c9767eb}</Project>
+      <Name>Shapes</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\пк\Desktop\Раб док\GitHub\Task%27s С#\4 - ValueTypeAndReferenceType\4 - ValueTypeAndReferenceType\ValueTypeAndReferenceType.csproj">
+      <Project>{b7f9d66f-dc61-40ae-99e5-8ce6b96ec451}</Project>
+      <Name>ValueTypeAndReferenceType</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\пк\Desktop\Раб док\GitHub\Task%27s С#\5 - TypeConversion\5 - TypeConversion\TypeConversion.csproj">
+      <Project>{374f4ef1-7a95-4781-806a-efd28a1983cc}</Project>
+      <Name>TypeConversion</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\пк\Desktop\Раб док\GitHub\Task%27s С#\7 - TaskEnumerable\7 - TaskEnumerable\TaskEnumerable.csproj">
+      <Project>{7d10edb9-a06f-4ee2-9897-5234861d8c99}</Project>
+      <Name>TaskEnumerable</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\пк\Desktop\Раб док\GitHub\Task%27s С#\8 -TaskLinq\8 -TaskLinq\TaskLinq.csproj">
+      <Project>{bf2f5cb6-a069-4c19-9d54-86da05c3f5de}</Project>
+      <Name>TaskLinq</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\пк\Desktop\Раб док\GitHub\Task%27s С#\9 - TaskComparable\9 - TaskComparable\TaskComparable.csproj">
+      <Project>{bd8fb58b-00f7-4cca-8425-f2a0f2a5098d}</Project>
+      <Name>TaskComparable</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\пк\source\repos\18 - TaskReflection\18 - TaskReflection\TaskReflection.csproj">
+      <Project>{e1ebe3b6-15d6-497c-8d10-6af2ebf6042b}</Project>
+      <Name>TaskReflection</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
