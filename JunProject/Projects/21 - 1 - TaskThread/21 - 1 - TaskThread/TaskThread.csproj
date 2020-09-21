@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{067D35D3-FA50-4F58-B173-4330295D634C}</ProjectGuid>
+    <ProjectGuid>{F63D2343-0222-4C97-B59B-353CAA094E3D}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_21___2____TaskThread</RootNamespace>
-    <AssemblyName>21 - 2 -  TaskThread</AssemblyName>
+    <RootNamespace>_21___1___TaskThread</RootNamespace>
+    <AssemblyName>21 - 1 - TaskThread</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,10 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="IJobExecutor.cs" />
-    <Compile Include="Program.cs" />
+    <Compile Include="ProgramThread.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="TaskQueue.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

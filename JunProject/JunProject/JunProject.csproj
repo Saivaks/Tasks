@@ -82,6 +82,14 @@
       <Project>{1a1c656a-2121-4348-bb13-f77ea1811404}</Project>
       <Name>TaskRegular</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Projects\21 - 1 - TaskThread\21 - 1 - TaskThread\TaskThread.csproj">
+      <Project>{f63d2343-0222-4c97-b59b-353caa094e3d}</Project>
+      <Name>TaskThread</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Projects\21 - 2 -  TaskThread\21 - 2 -  TaskThread\TaskThread2.csproj">
+      <Project>{067d35d3-fa50-4f58-b173-4330295d634c}</Project>
+      <Name>TaskThread2</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Projects\3 - Shapes\Shapes\Shapes.csproj">
       <Project>{cdc5ec3d-dbd6-4cd4-9d97-8da87c9767eb}</Project>
       <Name>Shapes</Name>

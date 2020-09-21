@@ -75,6 +75,10 @@ namespace JunProject
                         TaskRegular.ProgramRegular.Main();
                         break;
                     case "15":
+                        TaskThread.ProgramThread.Main();
+                        break;
+                    case "16":
+                        TaskThread2.ProgramThread2.Main();
                         break;
                     case "20":
                         flag = false;

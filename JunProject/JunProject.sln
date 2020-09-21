@@ -35,6 +35,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskLinq", "Projects\8 -Tas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValueTypeAndReferenceType", "Projects\4 - ValueTypeAndReferenceType\4 - ValueTypeAndReferenceType\ValueTypeAndReferenceType.csproj", "{B7F9D66F-DC61-40AE-99E5-8CE6B96EC451}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskThread", "Projects\21 - 1 - TaskThread\21 - 1 - TaskThread\TaskThread.csproj", "{F63D2343-0222-4C97-B59B-353CAA094E3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskThread2", "Projects\21 - 2 -  TaskThread\21 - 2 -  TaskThread\TaskThread2.csproj", "{067D35D3-FA50-4F58-B173-4330295D634C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +109,14 @@ Global
 		{B7F9D66F-DC61-40AE-99E5-8CE6B96EC451}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B7F9D66F-DC61-40AE-99E5-8CE6B96EC451}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B7F9D66F-DC61-40AE-99E5-8CE6B96EC451}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F63D2343-0222-4C97-B59B-353CAA094E3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F63D2343-0222-4C97-B59B-353CAA094E3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F63D2343-0222-4C97-B59B-353CAA094E3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F63D2343-0222-4C97-B59B-353CAA094E3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{067D35D3-FA50-4F58-B173-4330295D634C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{067D35D3-FA50-4F58-B173-4330295D634C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{067D35D3-FA50-4F58-B173-4330295D634C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{067D35D3-FA50-4F58-B173-4330295D634C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

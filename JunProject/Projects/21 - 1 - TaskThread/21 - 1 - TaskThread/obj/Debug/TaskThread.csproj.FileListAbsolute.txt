@@ -1,0 +1,7 @@
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\Projects\21 - 1 - TaskThread\21 - 1 - TaskThread\bin\Debug\21 - 1 - TaskThread.exe.config
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\Projects\21 - 1 - TaskThread\21 - 1 - TaskThread\bin\Debug\21 - 1 - TaskThread.exe
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\Projects\21 - 1 - TaskThread\21 - 1 - TaskThread\bin\Debug\21 - 1 - TaskThread.pdb
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\Projects\21 - 1 - TaskThread\21 - 1 - TaskThread\obj\Debug\TaskThread.csprojAssemblyReference.cache
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\Projects\21 - 1 - TaskThread\21 - 1 - TaskThread\obj\Debug\TaskThread.csproj.CoreCompileInputs.cache
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\Projects\21 - 1 - TaskThread\21 - 1 - TaskThread\obj\Debug\21 - 1 - TaskThread.exe
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\Projects\21 - 1 - TaskThread\21 - 1 - TaskThread\obj\Debug\21 - 1 - TaskThread.pdb

@@ -102,3 +102,9 @@ C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\JunProjec
 C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\JunProject\obj\Debug\JunProject.csproj.CopyComplete
 C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\JunProject\obj\Debug\JunProject.exe
 C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\JunProject\obj\Debug\JunProject.pdb
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\JunProject\bin\Debug\21 - 1 - TaskThread.exe
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\JunProject\bin\Debug\21 - 1 - TaskThread.pdb
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\JunProject\bin\Debug\21 - 1 - TaskThread.exe.config
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\JunProject\bin\Debug\21 - 2 -  TaskThread.exe
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\JunProject\bin\Debug\21 - 2 -  TaskThread.pdb
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\JunProject\bin\Debug\21 - 2 -  TaskThread.exe.config
