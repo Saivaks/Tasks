@@ -1,0 +1,7 @@
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\8 -TaskLinq\8 -TaskLinq\bin\Debug\8 -TaskLinq.exe.config
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\8 -TaskLinq\8 -TaskLinq\bin\Debug\8 -TaskLinq.exe
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\8 -TaskLinq\8 -TaskLinq\bin\Debug\8 -TaskLinq.pdb
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\8 -TaskLinq\8 -TaskLinq\obj\Debug\TaskLinq.csprojAssemblyReference.cache
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\8 -TaskLinq\8 -TaskLinq\obj\Debug\TaskLinq.csproj.CoreCompileInputs.cache
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\8 -TaskLinq\8 -TaskLinq\obj\Debug\8 -TaskLinq.exe
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\8 -TaskLinq\8 -TaskLinq\obj\Debug\8 -TaskLinq.pdb

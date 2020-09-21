@@ -1,0 +1,24 @@
+C:\Users\пк\source\repos\18 - TaskReflection\18 - TaskReflection\bin\Debug\18 - TaskReflection.exe.config
+C:\Users\пк\source\repos\18 - TaskReflection\18 - TaskReflection\bin\Debug\18 - TaskReflection.exe
+C:\Users\пк\source\repos\18 - TaskReflection\18 - TaskReflection\bin\Debug\18 - TaskReflection.pdb
+C:\Users\пк\source\repos\18 - TaskReflection\18 - TaskReflection\obj\Debug\TaskReflection.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\18 - TaskReflection\18 - TaskReflection\obj\Debug\TaskReflection.csproj.CopyComplete
+C:\Users\пк\source\repos\18 - TaskReflection\18 - TaskReflection\obj\Debug\18 - TaskReflection.exe
+C:\Users\пк\source\repos\18 - TaskReflection\18 - TaskReflection\obj\Debug\18 - TaskReflection.pdb
+C:\Users\пк\source\repos\18 - TaskReflection\18 - TaskReflection\bin\Debug\MyLibShapes.dll
+C:\Users\пк\source\repos\18 - TaskReflection\18 - TaskReflection\bin\Debug\MyLibShapes.pdb
+C:\Users\пк\source\repos\18 - TaskReflection\18 - TaskReflection\obj\Debug\TaskReflection.csprojAssemblyReference.cache
+C:\Users\пк\source\repos\18 - TaskReflection\18 - TaskReflection\bin\Debug\LibShapes.dll
+C:\Users\пк\source\repos\18 - TaskReflection\18 - TaskReflection\bin\Debug\LibShapes.pdb
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\Projects\18 - TaskReflection\18 - TaskReflection\bin\Debug\18 - TaskReflection.exe.config
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\Projects\18 - TaskReflection\18 - TaskReflection\bin\Debug\18 - TaskReflection.exe
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\Projects\18 - TaskReflection\18 - TaskReflection\bin\Debug\18 - TaskReflection.pdb
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\Projects\18 - TaskReflection\18 - TaskReflection\bin\Debug\LibShapes.dll
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\Projects\18 - TaskReflection\18 - TaskReflection\bin\Debug\MyLibShapes.dll
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\Projects\18 - TaskReflection\18 - TaskReflection\bin\Debug\LibShapes.pdb
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\Projects\18 - TaskReflection\18 - TaskReflection\bin\Debug\MyLibShapes.pdb
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\Projects\18 - TaskReflection\18 - TaskReflection\obj\Debug\TaskReflection.csprojAssemblyReference.cache
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\Projects\18 - TaskReflection\18 - TaskReflection\obj\Debug\TaskReflection.csproj.CoreCompileInputs.cache
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\Projects\18 - TaskReflection\18 - TaskReflection\obj\Debug\TaskReflection.csproj.CopyComplete
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\Projects\18 - TaskReflection\18 - TaskReflection\obj\Debug\18 - TaskReflection.exe
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\Projects\18 - TaskReflection\18 - TaskReflection\obj\Debug\18 - TaskReflection.pdb

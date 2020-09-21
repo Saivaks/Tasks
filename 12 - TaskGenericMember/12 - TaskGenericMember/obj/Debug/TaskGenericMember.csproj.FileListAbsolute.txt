@@ -1,0 +1,6 @@
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\12 - TaskGenericMember\12 - TaskGenericMember\bin\Debug\12 - TaskGenericMember.exe.config
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\12 - TaskGenericMember\12 - TaskGenericMember\bin\Debug\12 - TaskGenericMember.exe
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\12 - TaskGenericMember\12 - TaskGenericMember\bin\Debug\12 - TaskGenericMember.pdb
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\12 - TaskGenericMember\12 - TaskGenericMember\obj\Debug\TaskGenericMember.csproj.CoreCompileInputs.cache
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\12 - TaskGenericMember\12 - TaskGenericMember\obj\Debug\12 - TaskGenericMember.exe
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\12 - TaskGenericMember\12 - TaskGenericMember\obj\Debug\12 - TaskGenericMember.pdb

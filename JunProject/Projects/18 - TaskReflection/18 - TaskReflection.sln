@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18 - TaskReflection", "18 - TaskReflection\18 - TaskReflection.csproj", "{E1EBE3B6-15D6-497C-8D10-6AF2EBF6042B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyLibShapes", "MyLibShapes\MyLibShapes.csproj", "{523F2F71-5B17-4D48-8A64-C41EA569F694}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1EBE3B6-15D6-497C-8D10-6AF2EBF6042B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1EBE3B6-15D6-497C-8D10-6AF2EBF6042B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1EBE3B6-15D6-497C-8D10-6AF2EBF6042B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1EBE3B6-15D6-497C-8D10-6AF2EBF6042B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{523F2F71-5B17-4D48-8A64-C41EA569F694}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{523F2F71-5B17-4D48-8A64-C41EA569F694}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{523F2F71-5B17-4D48-8A64-C41EA569F694}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{523F2F71-5B17-4D48-8A64-C41EA569F694}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {324EE75B-6791-40A9-B116-A0C918FF599E}
+	EndGlobalSection
+EndGlobal

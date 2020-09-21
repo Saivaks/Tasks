@@ -1,0 +1,26 @@
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\19 - TaskSerialize\19 - TaskSerialize\bin\Debug\19 - TaskSerialize.exe.config
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\19 - TaskSerialize\19 - TaskSerialize\bin\Debug\19 - TaskSerialize.exe
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\19 - TaskSerialize\19 - TaskSerialize\bin\Debug\19 - TaskSerialize.pdb
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\19 - TaskSerialize\19 - TaskSerialize\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\19 - TaskSerialize\19 - TaskSerialize\bin\Debug\System.Buffers.dll
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\19 - TaskSerialize\19 - TaskSerialize\bin\Debug\System.Memory.dll
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\19 - TaskSerialize\19 - TaskSerialize\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\19 - TaskSerialize\19 - TaskSerialize\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\19 - TaskSerialize\19 - TaskSerialize\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\19 - TaskSerialize\19 - TaskSerialize\bin\Debug\System.Text.Json.dll
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\19 - TaskSerialize\19 - TaskSerialize\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\19 - TaskSerialize\19 - TaskSerialize\bin\Debug\System.ValueTuple.dll
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\19 - TaskSerialize\19 - TaskSerialize\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\19 - TaskSerialize\19 - TaskSerialize\bin\Debug\System.Buffers.xml
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\19 - TaskSerialize\19 - TaskSerialize\bin\Debug\System.Memory.xml
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\19 - TaskSerialize\19 - TaskSerialize\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\19 - TaskSerialize\19 - TaskSerialize\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\19 - TaskSerialize\19 - TaskSerialize\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\19 - TaskSerialize\19 - TaskSerialize\bin\Debug\System.Text.Json.xml
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\19 - TaskSerialize\19 - TaskSerialize\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\19 - TaskSerialize\19 - TaskSerialize\bin\Debug\System.ValueTuple.xml
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\19 - TaskSerialize\19 - TaskSerialize\obj\Debug\TaskSerialize.csprojAssemblyReference.cache
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\19 - TaskSerialize\19 - TaskSerialize\obj\Debug\TaskSerialize.csproj.CoreCompileInputs.cache
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\19 - TaskSerialize\19 - TaskSerialize\obj\Debug\TaskSerialize.csproj.CopyComplete
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\19 - TaskSerialize\19 - TaskSerialize\obj\Debug\19 - TaskSerialize.exe
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\19 - TaskSerialize\19 - TaskSerialize\obj\Debug\19 - TaskSerialize.pdb

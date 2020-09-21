@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<Person xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Alias>
+    <Alias>
+      <FirstName>Keй</FirstName>
+      <LastName>Овальд</LastName>
+      <Age>57</Age>
+    </Alias>
+    <FirstName>Кей</FirstName>
+    <LastName>Дач</LastName>
+    <Age>46</Age>
+  </Alias>
+  <FirstName>Кей</FirstName>
+  <LastName>Альтос</LastName>
+  <Age>35</Age>
+</Person>

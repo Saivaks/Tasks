@@ -1,0 +1,34 @@
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\11 - TaskListOrDictionary\11 - TaskListOrDictionary\bin\Debug\11 - TaskListOrDictionary.exe.config
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\11 - TaskListOrDictionary\11 - TaskListOrDictionary\bin\Debug\11 - TaskListOrDictionary.exe
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\11 - TaskListOrDictionary\11 - TaskListOrDictionary\bin\Debug\11 - TaskListOrDictionary.pdb
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\11 - TaskListOrDictionary\11 - TaskListOrDictionary\bin\Debug\10 - TaskEquals.exe
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\11 - TaskListOrDictionary\11 - TaskListOrDictionary\bin\Debug\5 - TypeConversion.exe
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\11 - TaskListOrDictionary\11 - TaskListOrDictionary\bin\Debug\Shapes.exe
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\11 - TaskListOrDictionary\11 - TaskListOrDictionary\bin\Debug\10 - TaskEquals.pdb
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\11 - TaskListOrDictionary\11 - TaskListOrDictionary\bin\Debug\10 - TaskEquals.exe.config
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\11 - TaskListOrDictionary\11 - TaskListOrDictionary\bin\Debug\5 - TypeConversion.pdb
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\11 - TaskListOrDictionary\11 - TaskListOrDictionary\bin\Debug\5 - TypeConversion.exe.config
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\11 - TaskListOrDictionary\11 - TaskListOrDictionary\bin\Debug\Shapes.pdb
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\11 - TaskListOrDictionary\11 - TaskListOrDictionary\bin\Debug\Shapes.exe.config
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\11 - TaskListOrDictionary\11 - TaskListOrDictionary\obj\Debug\TaskListOrDictionary.csprojAssemblyReference.cache
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\11 - TaskListOrDictionary\11 - TaskListOrDictionary\obj\Debug\TaskListOrDictionary.csproj.CoreCompileInputs.cache
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\11 - TaskListOrDictionary\11 - TaskListOrDictionary\obj\Debug\TaskListOrDictionary.csproj.CopyComplete
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\11 - TaskListOrDictionary\11 - TaskListOrDictionary\obj\Debug\11 - TaskListOrDictionary.exe
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\11 - TaskListOrDictionary\11 - TaskListOrDictionary\obj\Debug\11 - TaskListOrDictionary.pdb
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\Projects\11 - TaskListOrDictionary\11 - TaskListOrDictionary\bin\Debug\11 - TaskListOrDictionary.exe.config
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\Projects\11 - TaskListOrDictionary\11 - TaskListOrDictionary\bin\Debug\11 - TaskListOrDictionary.exe
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\Projects\11 - TaskListOrDictionary\11 - TaskListOrDictionary\bin\Debug\11 - TaskListOrDictionary.pdb
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\Projects\11 - TaskListOrDictionary\11 - TaskListOrDictionary\bin\Debug\10 - TaskEquals.exe
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\Projects\11 - TaskListOrDictionary\11 - TaskListOrDictionary\bin\Debug\5 - TypeConversion.exe
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\Projects\11 - TaskListOrDictionary\11 - TaskListOrDictionary\bin\Debug\Shapes.exe
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\Projects\11 - TaskListOrDictionary\11 - TaskListOrDictionary\bin\Debug\10 - TaskEquals.pdb
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\Projects\11 - TaskListOrDictionary\11 - TaskListOrDictionary\bin\Debug\10 - TaskEquals.exe.config
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\Projects\11 - TaskListOrDictionary\11 - TaskListOrDictionary\bin\Debug\5 - TypeConversion.pdb
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\Projects\11 - TaskListOrDictionary\11 - TaskListOrDictionary\bin\Debug\5 - TypeConversion.exe.config
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\Projects\11 - TaskListOrDictionary\11 - TaskListOrDictionary\bin\Debug\Shapes.pdb
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\Projects\11 - TaskListOrDictionary\11 - TaskListOrDictionary\bin\Debug\Shapes.exe.config
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\Projects\11 - TaskListOrDictionary\11 - TaskListOrDictionary\obj\Debug\TaskListOrDictionary.csprojAssemblyReference.cache
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\Projects\11 - TaskListOrDictionary\11 - TaskListOrDictionary\obj\Debug\TaskListOrDictionary.csproj.CoreCompileInputs.cache
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\Projects\11 - TaskListOrDictionary\11 - TaskListOrDictionary\obj\Debug\TaskListOrDictionary.csproj.CopyComplete
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\Projects\11 - TaskListOrDictionary\11 - TaskListOrDictionary\obj\Debug\11 - TaskListOrDictionary.exe
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\Projects\11 - TaskListOrDictionary\11 - TaskListOrDictionary\obj\Debug\11 - TaskListOrDictionary.pdb

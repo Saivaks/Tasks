@@ -1,0 +1,14 @@
+C:\Users\пк\source\repos\7 - TaskEnumerable\7 - TaskEnumerable\bin\Debug\7 - TaskEnumerable.exe.config
+C:\Users\пк\source\repos\7 - TaskEnumerable\7 - TaskEnumerable\bin\Debug\7 - TaskEnumerable.exe
+C:\Users\пк\source\repos\7 - TaskEnumerable\7 - TaskEnumerable\bin\Debug\7 - TaskEnumerable.pdb
+C:\Users\пк\source\repos\7 - TaskEnumerable\7 - TaskEnumerable\obj\Debug\7 - TaskEnumerable.csprojAssemblyReference.cache
+C:\Users\пк\source\repos\7 - TaskEnumerable\7 - TaskEnumerable\obj\Debug\7 - TaskEnumerable.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\7 - TaskEnumerable\7 - TaskEnumerable\obj\Debug\7 - TaskEnumerable.exe
+C:\Users\пк\source\repos\7 - TaskEnumerable\7 - TaskEnumerable\obj\Debug\7 - TaskEnumerable.pdb
+D:\Документы Владмира\C# Jun\Works\Task's\7 - TaskEnumerable\7 - TaskEnumerable\bin\Debug\7 - TaskEnumerable.exe.config
+D:\Документы Владмира\C# Jun\Works\Task's\7 - TaskEnumerable\7 - TaskEnumerable\bin\Debug\7 - TaskEnumerable.exe
+D:\Документы Владмира\C# Jun\Works\Task's\7 - TaskEnumerable\7 - TaskEnumerable\bin\Debug\7 - TaskEnumerable.pdb
+D:\Документы Владмира\C# Jun\Works\Task's\7 - TaskEnumerable\7 - TaskEnumerable\obj\Debug\7 - TaskEnumerable.csprojAssemblyReference.cache
+D:\Документы Владмира\C# Jun\Works\Task's\7 - TaskEnumerable\7 - TaskEnumerable\obj\Debug\7 - TaskEnumerable.csproj.CoreCompileInputs.cache
+D:\Документы Владмира\C# Jun\Works\Task's\7 - TaskEnumerable\7 - TaskEnumerable\obj\Debug\7 - TaskEnumerable.exe
+D:\Документы Владмира\C# Jun\Works\Task's\7 - TaskEnumerable\7 - TaskEnumerable\obj\Debug\7 - TaskEnumerable.pdb

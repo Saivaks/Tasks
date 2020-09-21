@@ -1,0 +1,11 @@
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\7 - TaskEnumerable\7 - TaskEnumerable\bin\Debug\7 - TaskEnumerable.exe.config
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\7 - TaskEnumerable\7 - TaskEnumerable\bin\Debug\7 - TaskEnumerable.exe
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\7 - TaskEnumerable\7 - TaskEnumerable\bin\Debug\7 - TaskEnumerable.pdb
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\7 - TaskEnumerable\7 - TaskEnumerable\bin\Debug\Shapes.exe
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\7 - TaskEnumerable\7 - TaskEnumerable\bin\Debug\Shapes.pdb
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\7 - TaskEnumerable\7 - TaskEnumerable\bin\Debug\Shapes.exe.config
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\7 - TaskEnumerable\7 - TaskEnumerable\obj\Debug\TaskEnumerable.csprojAssemblyReference.cache
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\7 - TaskEnumerable\7 - TaskEnumerable\obj\Debug\TaskEnumerable.csproj.CoreCompileInputs.cache
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\7 - TaskEnumerable\7 - TaskEnumerable\obj\Debug\TaskEnumerable.csproj.CopyComplete
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\7 - TaskEnumerable\7 - TaskEnumerable\obj\Debug\7 - TaskEnumerable.exe
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\7 - TaskEnumerable\7 - TaskEnumerable\obj\Debug\7 - TaskEnumerable.pdb

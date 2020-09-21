@@ -1,0 +1,12 @@
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\20 - TaskRegular\20 - TaskRegular\bin\Debug\20 - TaskRegular.exe.config
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\20 - TaskRegular\20 - TaskRegular\bin\Debug\20 - TaskRegular.exe
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\20 - TaskRegular\20 - TaskRegular\bin\Debug\20 - TaskRegular.pdb
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\20 - TaskRegular\20 - TaskRegular\obj\Debug\TaskRegular.csproj.CoreCompileInputs.cache
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\20 - TaskRegular\20 - TaskRegular\obj\Debug\20 - TaskRegular.exe
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\20 - TaskRegular\20 - TaskRegular\obj\Debug\20 - TaskRegular.pdb
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\Projects\20 - TaskRegular\20 - TaskRegular\bin\Debug\20 - TaskRegular.exe.config
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\Projects\20 - TaskRegular\20 - TaskRegular\bin\Debug\20 - TaskRegular.exe
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\Projects\20 - TaskRegular\20 - TaskRegular\bin\Debug\20 - TaskRegular.pdb
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\Projects\20 - TaskRegular\20 - TaskRegular\obj\Debug\TaskRegular.csproj.CoreCompileInputs.cache
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\Projects\20 - TaskRegular\20 - TaskRegular\obj\Debug\20 - TaskRegular.exe
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\Projects\20 - TaskRegular\20 - TaskRegular\obj\Debug\20 - TaskRegular.pdb

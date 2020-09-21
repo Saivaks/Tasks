@@ -50,3 +50,55 @@ D:\Документы Владмира\C# Jun\Works\Task's С#\JunProject\JunPro
 D:\Документы Владмира\C# Jun\Works\Task's С#\JunProject\JunProject\bin\Debug\20 - TaskRegular.exe
 D:\Документы Владмира\C# Jun\Works\Task's С#\JunProject\JunProject\bin\Debug\20 - TaskRegular.pdb
 D:\Документы Владмира\C# Jun\Works\Task's С#\JunProject\JunProject\bin\Debug\20 - TaskRegular.exe.config
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\JunProject\bin\Debug\JunProject.exe.config
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\JunProject\bin\Debug\JunProject.exe
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\JunProject\bin\Debug\JunProject.pdb
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\JunProject\bin\Debug\10 - TaskEquals.exe
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\JunProject\bin\Debug\11 - TaskListOrDictionary.exe
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\JunProject\bin\Debug\12 - TaskGenericMember.exe
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\JunProject\bin\Debug\14 - TaskEvents.exe
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\JunProject\bin\Debug\17 - TaskExtentions.exe
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\JunProject\bin\Debug\18 - TaskReflection.exe
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\JunProject\bin\Debug\19 - TaskSerialize.exe
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\JunProject\bin\Debug\20 - TaskRegular.exe
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\JunProject\bin\Debug\4 - ValueTypeAndReferenceType.exe
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\JunProject\bin\Debug\5 - TypeConversion.exe
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\JunProject\bin\Debug\7 - TaskEnumerable.exe
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\JunProject\bin\Debug\8 -TaskLinq.exe
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\JunProject\bin\Debug\9 - TaskComparable.exe
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\JunProject\bin\Debug\Shapes.exe
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\JunProject\bin\Debug\LibShapes.dll
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\JunProject\bin\Debug\20 - TaskRegular.pdb
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\JunProject\bin\Debug\20 - TaskRegular.exe.config
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\JunProject\bin\Debug\10 - TaskEquals.pdb
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\JunProject\bin\Debug\10 - TaskEquals.exe.config
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\JunProject\bin\Debug\11 - TaskListOrDictionary.pdb
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\JunProject\bin\Debug\11 - TaskListOrDictionary.exe.config
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\JunProject\bin\Debug\12 - TaskGenericMember.pdb
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\JunProject\bin\Debug\12 - TaskGenericMember.exe.config
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\JunProject\bin\Debug\14 - TaskEvents.pdb
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\JunProject\bin\Debug\14 - TaskEvents.exe.config
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\JunProject\bin\Debug\17 - TaskExtentions.pdb
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\JunProject\bin\Debug\17 - TaskExtentions.exe.config
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\JunProject\bin\Debug\19 - TaskSerialize.pdb
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\JunProject\bin\Debug\19 - TaskSerialize.exe.config
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\JunProject\bin\Debug\Shapes.pdb
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\JunProject\bin\Debug\Shapes.exe.config
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\JunProject\bin\Debug\4 - ValueTypeAndReferenceType.pdb
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\JunProject\bin\Debug\4 - ValueTypeAndReferenceType.exe.config
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\JunProject\bin\Debug\5 - TypeConversion.pdb
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\JunProject\bin\Debug\5 - TypeConversion.exe.config
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\JunProject\bin\Debug\7 - TaskEnumerable.pdb
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\JunProject\bin\Debug\7 - TaskEnumerable.exe.config
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\JunProject\bin\Debug\8 -TaskLinq.pdb
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\JunProject\bin\Debug\8 -TaskLinq.exe.config
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\JunProject\bin\Debug\9 - TaskComparable.pdb
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\JunProject\bin\Debug\9 - TaskComparable.exe.config
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\JunProject\bin\Debug\18 - TaskReflection.pdb
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\JunProject\bin\Debug\18 - TaskReflection.exe.config
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\JunProject\bin\Debug\LibShapes.pdb
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\JunProject\obj\Debug\JunProject.csprojAssemblyReference.cache
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\JunProject\obj\Debug\JunProject.csproj.CoreCompileInputs.cache
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\JunProject\obj\Debug\JunProject.csproj.CopyComplete
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\JunProject\obj\Debug\JunProject.exe
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\JunProject\obj\Debug\JunProject.pdb

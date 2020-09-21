@@ -1,0 +1,14 @@
+C:\Users\пк\source\repos\12 - TaskGenericMember\12 - TaskGenericMember\bin\Debug\12 - TaskGenericMember.exe.config
+C:\Users\пк\source\repos\12 - TaskGenericMember\12 - TaskGenericMember\bin\Debug\12 - TaskGenericMember.exe
+C:\Users\пк\source\repos\12 - TaskGenericMember\12 - TaskGenericMember\bin\Debug\12 - TaskGenericMember.pdb
+C:\Users\пк\source\repos\12 - TaskGenericMember\12 - TaskGenericMember\obj\Debug\12 - TaskGenericMember.csprojAssemblyReference.cache
+C:\Users\пк\source\repos\12 - TaskGenericMember\12 - TaskGenericMember\obj\Debug\12 - TaskGenericMember.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\12 - TaskGenericMember\12 - TaskGenericMember\obj\Debug\12 - TaskGenericMember.exe
+C:\Users\пк\source\repos\12 - TaskGenericMember\12 - TaskGenericMember\obj\Debug\12 - TaskGenericMember.pdb
+D:\Документы Владмира\C# Jun\Works\Task's\12 - TaskGenericMember\12 - TaskGenericMember\bin\Debug\12 - TaskGenericMember.exe.config
+D:\Документы Владмира\C# Jun\Works\Task's\12 - TaskGenericMember\12 - TaskGenericMember\bin\Debug\12 - TaskGenericMember.exe
+D:\Документы Владмира\C# Jun\Works\Task's\12 - TaskGenericMember\12 - TaskGenericMember\bin\Debug\12 - TaskGenericMember.pdb
+D:\Документы Владмира\C# Jun\Works\Task's\12 - TaskGenericMember\12 - TaskGenericMember\obj\Debug\12 - TaskGenericMember.csprojAssemblyReference.cache
+D:\Документы Владмира\C# Jun\Works\Task's\12 - TaskGenericMember\12 - TaskGenericMember\obj\Debug\12 - TaskGenericMember.csproj.CoreCompileInputs.cache
+D:\Документы Владмира\C# Jun\Works\Task's\12 - TaskGenericMember\12 - TaskGenericMember\obj\Debug\12 - TaskGenericMember.exe
+D:\Документы Владмира\C# Jun\Works\Task's\12 - TaskGenericMember\12 - TaskGenericMember\obj\Debug\12 - TaskGenericMember.pdb

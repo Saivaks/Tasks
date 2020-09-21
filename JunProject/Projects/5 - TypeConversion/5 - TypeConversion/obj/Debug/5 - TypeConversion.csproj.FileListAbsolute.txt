@@ -1,0 +1,14 @@
+C:\Users\пк\source\repos\5 - TypeConversion\5 - TypeConversion\bin\Debug\5 - TypeConversion.exe.config
+C:\Users\пк\source\repos\5 - TypeConversion\5 - TypeConversion\bin\Debug\5 - TypeConversion.exe
+C:\Users\пк\source\repos\5 - TypeConversion\5 - TypeConversion\bin\Debug\5 - TypeConversion.pdb
+C:\Users\пк\source\repos\5 - TypeConversion\5 - TypeConversion\obj\Debug\5 - TypeConversion.csprojAssemblyReference.cache
+C:\Users\пк\source\repos\5 - TypeConversion\5 - TypeConversion\obj\Debug\5 - TypeConversion.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\5 - TypeConversion\5 - TypeConversion\obj\Debug\5 - TypeConversion.exe
+C:\Users\пк\source\repos\5 - TypeConversion\5 - TypeConversion\obj\Debug\5 - TypeConversion.pdb
+D:\Документы Владмира\C# Jun\Works\Task's\5 - TypeConversion\5 - TypeConversion\bin\Debug\5 - TypeConversion.exe.config
+D:\Документы Владмира\C# Jun\Works\Task's\5 - TypeConversion\5 - TypeConversion\bin\Debug\5 - TypeConversion.exe
+D:\Документы Владмира\C# Jun\Works\Task's\5 - TypeConversion\5 - TypeConversion\bin\Debug\5 - TypeConversion.pdb
+D:\Документы Владмира\C# Jun\Works\Task's\5 - TypeConversion\5 - TypeConversion\obj\Debug\5 - TypeConversion.csprojAssemblyReference.cache
+D:\Документы Владмира\C# Jun\Works\Task's\5 - TypeConversion\5 - TypeConversion\obj\Debug\5 - TypeConversion.csproj.CoreCompileInputs.cache
+D:\Документы Владмира\C# Jun\Works\Task's\5 - TypeConversion\5 - TypeConversion\obj\Debug\5 - TypeConversion.exe
+D:\Документы Владмира\C# Jun\Works\Task's\5 - TypeConversion\5 - TypeConversion\obj\Debug\5 - TypeConversion.pdb

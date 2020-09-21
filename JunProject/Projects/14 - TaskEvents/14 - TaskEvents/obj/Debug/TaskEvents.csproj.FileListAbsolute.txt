@@ -1,0 +1,7 @@
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\14 - TaskEvents\14 - TaskEvents\bin\Debug\14 - TaskEvents.exe.config
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\14 - TaskEvents\14 - TaskEvents\bin\Debug\14 - TaskEvents.exe
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\14 - TaskEvents\14 - TaskEvents\bin\Debug\14 - TaskEvents.pdb
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\14 - TaskEvents\14 - TaskEvents\obj\Debug\TaskEvents.csprojAssemblyReference.cache
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\14 - TaskEvents\14 - TaskEvents\obj\Debug\TaskEvents.csproj.CoreCompileInputs.cache
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\14 - TaskEvents\14 - TaskEvents\obj\Debug\14 - TaskEvents.exe
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\14 - TaskEvents\14 - TaskEvents\obj\Debug\14 - TaskEvents.pdb

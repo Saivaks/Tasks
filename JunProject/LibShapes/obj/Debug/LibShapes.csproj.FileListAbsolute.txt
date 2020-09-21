@@ -3,3 +3,9 @@ D:\Документы Владмира\C# Jun\Works\Task's С#\JunProject\LibSha
 D:\Документы Владмира\C# Jun\Works\Task's С#\JunProject\LibShapes\obj\Debug\LibShapes.csproj.CoreCompileInputs.cache
 D:\Документы Владмира\C# Jun\Works\Task's С#\JunProject\LibShapes\obj\Debug\LibShapes.dll
 D:\Документы Владмира\C# Jun\Works\Task's С#\JunProject\LibShapes\obj\Debug\LibShapes.pdb
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\LibShapes\bin\Debug\LibShapes.dll
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\LibShapes\bin\Debug\LibShapes.pdb
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\LibShapes\obj\Debug\LibShapes.csprojAssemblyReference.cache
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\LibShapes\obj\Debug\LibShapes.csproj.CoreCompileInputs.cache
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\LibShapes\obj\Debug\LibShapes.dll
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\LibShapes\obj\Debug\LibShapes.pdb
