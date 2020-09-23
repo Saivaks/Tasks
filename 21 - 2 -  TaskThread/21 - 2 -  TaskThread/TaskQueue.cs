@@ -1,46 +1,66 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Threading;
+using System.Threading.Tasks;
 
 namespace TaskThread2
 {
     internal class TaskQueue : IJobExecutor
     {
-        Thread[] threads;
-        private int totalCount = 0;
-        Queue<Action> queueTasks = new Queue<Action>();
+        private CancellationTokenSource cancellationToken = new CancellationTokenSource();
+        private ManualResetEvent stateThreads = new ManualResetEvent(false);
+        private Queue<Action> queueTasks = new Queue<Action>();
+        private Semaphore semaphore;
+        private Task totalTask;
 
         public int Amount { get { return queueTasks.Count; } }
 
         public void Start(int maxConcurrent)
         {
-            Console.WriteLine("\n\nStart:");
-            threads = new Thread[maxConcurrent];
-            while (Amount != 0)
+            semaphore = new Semaphore(maxConcurrent, maxConcurrent);
+            stateThreads.Set();
+
+            totalTask = new Task(Run);
+            totalTask.Start();
+        }
+
+
+        private void Run()
+        {
+            cancellationToken = new CancellationTokenSource();
+            while (!cancellationToken.Token.IsCancellationRequested)
             {
-                for (int i = 0; i < maxConcurrent; i++)
+                if (Amount > 0)
                 {
-                    if ((threads[i] == null || threads[i].ThreadState == ThreadState.Stopped) && Amount!=0)
+                    Task task = new Task( () => 
                     {
-                        threads[i] = new Thread(new ThreadStart(queueTasks.Dequeue()));
-                        threads[i].Name = $"Задача № {++totalCount} выполняется в потоке # {i+1}";
-                        threads[i].Start();
-                    }
+                        semaphore.WaitOne();
+                        if (Amount > 0 && !cancellationToken.Token.IsCancellationRequested)
+                            queueTasks.Dequeue()?.Invoke();
+                        semaphore.Release(); });
+                    task.Start();
+                }
+                else
+                {
+                    Console.WriteLine("Задачи в очереди отсутсвуют.");
+                    stateThreads.Reset();
+                    stateThreads.WaitOne();
                 }
             }
         }
 
         public void Stop()
         {
-            Console.WriteLine("Остановка потоков.");
-            foreach (Thread thread in threads)
-                thread.Abort();
+            cancellationToken.Cancel();
+            Console.WriteLine("Очередь остановлена.");
+            stateThreads.Set();
         }
 
         public void Add(Action action)
         {
             queueTasks.Enqueue(action);
             Console.WriteLine($"В очередь добавлен поток под номером: {Amount}");
+            stateThreads.Set();
         }
 
         public void Clear()
