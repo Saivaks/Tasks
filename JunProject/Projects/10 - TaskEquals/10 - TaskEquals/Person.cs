@@ -1,6 +1,6 @@
 ﻿using System;
-using TypeConversion;
 using System.Collections.Generic;
+using TypeConversion;
 
 namespace TaskEquals
 {
@@ -45,7 +45,9 @@ namespace TaskEquals
 
         public override int GetHashCode()
         {
-            return IdPass^MyName.GetHashCode();
+            // Для .Net Core 
+            // return HashCode.Combine(MyName, IdPass, DateOfBirth, City);
+            return MyName.GetHashCode() ^ IdPass ^ DateOfBirth.GetHashCode() ^ City.GetHashCode();
         }
     }
 }

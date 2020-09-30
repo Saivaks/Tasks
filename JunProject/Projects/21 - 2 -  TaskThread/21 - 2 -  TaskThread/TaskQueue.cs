@@ -8,8 +8,9 @@ namespace TaskThread2
 {
     internal class TaskQueue : IJobExecutor
     {
-        private CancellationTokenSource cancellationToken = new CancellationTokenSource();
         private ConcurrentQueue<Action> queueTasks = new ConcurrentQueue<Action>();
+        private CancellationTokenSource cancellationToken;
+        private CancellationToken token;
         private Semaphore semaphore;
         private Task totalTask;
 
@@ -17,23 +18,30 @@ namespace TaskThread2
 
         public void Start(int maxConcurrent)
         {
-            semaphore = new Semaphore(maxConcurrent, maxConcurrent);
+            if (cancellationToken == null || token.IsCancellationRequested)
+            {
+                cancellationToken = new CancellationTokenSource();
+                token = cancellationToken.Token;
+                // Ограничиваем количество одновременно работающих потоков числом maxConcurrent
+                semaphore = new Semaphore(maxConcurrent, maxConcurrent);
 
-            totalTask = new Task(Run);
-            totalTask.Start();
+                totalTask = new Task(Run);
+                totalTask.Start();
+            }
+            else
+                Console.WriteLine("Программа уже запущена.");
         }
 
         private void Run()
         {
-            cancellationToken = new CancellationTokenSource();
-            while (!cancellationToken.Token.IsCancellationRequested)
+            while (!token.IsCancellationRequested)
             {
                 if (Amount > 0)
                 {
                     Task task = new Task( () => 
                     {
                         semaphore.WaitOne();
-                        if (Amount > 0 && !cancellationToken.Token.IsCancellationRequested)
+                        if (Amount > 0 && !token.IsCancellationRequested)
                         {
                             Action action;
                             queueTasks.TryDequeue(out action);
@@ -50,8 +58,14 @@ namespace TaskThread2
 
         public void Stop()
         {
-            cancellationToken.Cancel();
-            Console.WriteLine("Очередь остановлена.");
+            if (cancellationToken == null || cancellationToken.IsCancellationRequested)
+                Console.WriteLine("Программа на данный момент не запущена или уже остановлена!");
+            else
+            {
+                cancellationToken.Cancel();
+                token = cancellationToken.Token;
+                Console.WriteLine("Очередь остановлена.");
+            }
         }
 
         public void Add(Action action)
@@ -62,8 +76,8 @@ namespace TaskThread2
 
         public void Clear()
         {
+            queueTasks = new ConcurrentQueue<Action>(); // При использовании .Net Core 3.0+: queueTasks.Clear();
             Console.WriteLine("Очередь очищена.");
-            // queueTasks.Clear();  // Core 3.1
         }
     }
 }

@@ -79,7 +79,7 @@ namespace TaskThread2
             for (int i = 0; i < 11; i++)
             {
                 Console.WriteLine($"Процесс выполнения задачи: - {i}0 %");
-                Thread.Sleep(100);
+                Thread.Sleep(300);
             }
         }
     }
