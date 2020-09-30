@@ -7,14 +7,14 @@ namespace Shapes
     {
         // Зачем Area \ Perimeter были абстрактными? Просто в базом классе установил асбрактные свойства отвечающие за данные параметры, 
         // чтобы в дальнейшем, если понадобится, можно было бы легко их сделать полноценными свойствоми (в данной задаче это не потребовалось)  или автоматическим, в зависимости от потребностей. 
-        public double Area { get; protected set; }
-        public double Perimeter { get; protected set; }
+        public double Area { get { return AreaCalc(); }}
+        public double Perimeter { get { return PerimeterCalc();} }
 
         // Метод отвечающий за вычисление площади фигуры
-        protected abstract void AreaCalc();
+        protected abstract double AreaCalc();
 
         // Метод отвечающий за вычисление периметра фигуры
-        protected abstract void PerimeterCalc();
+        protected abstract double PerimeterCalc();
 
         // Вывод параметров фигуры на экран консоли 
         public override string ToString()

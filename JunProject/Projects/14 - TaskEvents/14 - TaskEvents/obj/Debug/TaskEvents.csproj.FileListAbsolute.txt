@@ -5,3 +5,10 @@ C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\14 - TaskEvents\14 - TaskE
 C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\14 - TaskEvents\14 - TaskEvents\obj\Debug\TaskEvents.csproj.CoreCompileInputs.cache
 C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\14 - TaskEvents\14 - TaskEvents\obj\Debug\14 - TaskEvents.exe
 C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\14 - TaskEvents\14 - TaskEvents\obj\Debug\14 - TaskEvents.pdb
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\Projects\14 - TaskEvents\14 - TaskEvents\bin\Debug\14 - TaskEvents.exe.config
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\Projects\14 - TaskEvents\14 - TaskEvents\bin\Debug\14 - TaskEvents.exe
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\Projects\14 - TaskEvents\14 - TaskEvents\bin\Debug\14 - TaskEvents.pdb
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\Projects\14 - TaskEvents\14 - TaskEvents\obj\Debug\TaskEvents.csprojAssemblyReference.cache
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\Projects\14 - TaskEvents\14 - TaskEvents\obj\Debug\TaskEvents.csproj.CoreCompileInputs.cache
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\Projects\14 - TaskEvents\14 - TaskEvents\obj\Debug\14 - TaskEvents.exe
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\Projects\14 - TaskEvents\14 - TaskEvents\obj\Debug\14 - TaskEvents.pdb

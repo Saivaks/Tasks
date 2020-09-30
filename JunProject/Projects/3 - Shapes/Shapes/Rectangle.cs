@@ -8,26 +8,14 @@ namespace Shapes
         public double Height { get; protected set; }
         public double Width { get; protected set; }
 
-        public Rectangle()
-        {
-            var valueRectangle = EnteringParameters();
-            Width = valueRectangle[0];
-            Height = valueRectangle[1];
-            AreaCalc();
-            PerimeterCalc();
-        }
-
-        // Конструктор для дальнейших задач
         public Rectangle(double height, double width)
         {
             Height = height;
             Width = width;
-            AreaCalc();
-            PerimeterCalc();
         }
 
-        // Метод отвечающий за корректный ввод сторон Прямоугольника
-        protected virtual double[] EnteringParameters()
+        // Метод отвечающий за создание экземляра объекта и корректный ввод сторон Прямоугольника
+        public static Rectangle EnteringParameters()
         {
             var value = new double[2];
             string[] sideRectangle;
@@ -37,22 +25,22 @@ namespace Shapes
                 sideRectangle = Console.ReadLine().Split(new char[] { ' ' });
             } while (!(sideRectangle.Length == 2 && Double.TryParse(sideRectangle[0], out value[0]) && Double.TryParse(sideRectangle[1], out value[1])));
 
-            return value;
+            return new Rectangle(value[0], value[1]);
         }
 
-        protected override void AreaCalc()
+        protected override double AreaCalc()
         {
-            Area = Width * Height;
+            return Width * Height;
         }
 
-        protected override void PerimeterCalc()
+        protected override double PerimeterCalc()
         {
-            Perimeter = 2 * (Height + Width);
+            return 2 * (Height + Width);
         }
 
         public override string ToString()
         {
-            return $"Периметр прямоугольника: \t{Perimeter} \nПлощадь прямоугольника: \t{Area}";
+            return $"Периметр прямоугольника: {Perimeter} \nПлощадь прямоугольника:  {Area}";
         }
 
         // Для задачи сортировки объектов

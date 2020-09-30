@@ -31,7 +31,7 @@ namespace TaskThread
             Stopwatch SW = new Stopwatch();
             // Генерация массива 10М и вычисление для него среднего арифметического 
             SW.Start();
-            CreateAndCalcMasStreams(10000000);
+            CreateAndCalcMasStreams(1000);
             SW.Stop();
             Console.WriteLine($"Время выполнения: {SW.Elapsed.Seconds} s {SW.Elapsed.Milliseconds} ms");
 
@@ -48,7 +48,7 @@ namespace TaskThread
             if (!(count is Int32))
                 throw new InvalidCastException("Невозможно преобразовать данный тип в Int32!");
 
-            int countThread = 10; // Максимальное количество одновременно работающих потоков
+            int countThread = 5; // Максимальное количество одновременно работающих потоков
             double[] mas = CreateMas((int)count, countThread);
             double sum = CalcMas(mas, countThread);
 
@@ -63,22 +63,28 @@ namespace TaskThread
             double[] mas = new double[count];
 
             while (indexMas > 0)
+            {
                 if (countThread > 0)
                 {
                     countThread--;
                     ThreadPool.QueueUserWorkItem(x =>
                     {
-                        lock (locker)
+                        Console.WriteLine($"Start thread {countThread}");
+                        while (true)
                         {
-                            while (indexMas > 0)
+                            double value = rng.Next(100) + rng.NextDouble();
+                            if (indexMas > 0)
+                                mas[--indexMas] = value;
+                            else
                             {
-                                if (indexMas-- > 0)
-                                    mas[indexMas] = rng.Next(100) + rng.NextDouble();
+                                eventLocker.Set();
+                                break;
                             }
-                            eventLocker.Set();
                         }
+                        Console.WriteLine($"End");
                     });
                 }
+            }
             eventLocker.WaitOne();
 
             return mas;
@@ -91,24 +97,29 @@ namespace TaskThread
             object locker = new object();
 
             while (indexMas > 0)
+            {
                 if (countThread > 0)
                 {
                     countThread--;
                     ThreadPool.QueueUserWorkItem(x =>
                     {
-                        lock (locker)
+                        while (true)
                         {
-                            while (indexMas > 0)
+                            if (indexMas > 0)
                             {
-                                if (indexMas-- > 0)
-                                    sum += mas[indexMas];
+                                double value = mas[--indexMas];
+                                sum += value;
                             }
-                            eventLocker.Set();
+                            else
+                            {
+                                eventLocker.Set();
+                                break;
+                            }
                         }
                     });
-                }
+                } 
+            }
             eventLocker.WaitOne();
-
             return sum;
         }
 

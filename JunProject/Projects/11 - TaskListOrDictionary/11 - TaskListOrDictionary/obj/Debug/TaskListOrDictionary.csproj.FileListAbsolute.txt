@@ -32,3 +32,20 @@ C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\Projects\
 C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\Projects\11 - TaskListOrDictionary\11 - TaskListOrDictionary\obj\Debug\TaskListOrDictionary.csproj.CopyComplete
 C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\Projects\11 - TaskListOrDictionary\11 - TaskListOrDictionary\obj\Debug\11 - TaskListOrDictionary.exe
 C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\Projects\11 - TaskListOrDictionary\11 - TaskListOrDictionary\obj\Debug\11 - TaskListOrDictionary.pdb
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\Projects\11 - TaskListOrDictionary\11 - TaskListOrDictionary\bin\Debug\11 - TaskListOrDictionary.exe.config
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\Projects\11 - TaskListOrDictionary\11 - TaskListOrDictionary\bin\Debug\11 - TaskListOrDictionary.exe
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\Projects\11 - TaskListOrDictionary\11 - TaskListOrDictionary\bin\Debug\11 - TaskListOrDictionary.pdb
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\Projects\11 - TaskListOrDictionary\11 - TaskListOrDictionary\bin\Debug\10 - TaskEquals.exe
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\Projects\11 - TaskListOrDictionary\11 - TaskListOrDictionary\bin\Debug\5 - TypeConversion.exe
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\Projects\11 - TaskListOrDictionary\11 - TaskListOrDictionary\bin\Debug\Shapes.exe
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\Projects\11 - TaskListOrDictionary\11 - TaskListOrDictionary\bin\Debug\10 - TaskEquals.pdb
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\Projects\11 - TaskListOrDictionary\11 - TaskListOrDictionary\bin\Debug\10 - TaskEquals.exe.config
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\Projects\11 - TaskListOrDictionary\11 - TaskListOrDictionary\bin\Debug\5 - TypeConversion.pdb
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\Projects\11 - TaskListOrDictionary\11 - TaskListOrDictionary\bin\Debug\5 - TypeConversion.exe.config
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\Projects\11 - TaskListOrDictionary\11 - TaskListOrDictionary\bin\Debug\Shapes.pdb
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\Projects\11 - TaskListOrDictionary\11 - TaskListOrDictionary\bin\Debug\Shapes.exe.config
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\Projects\11 - TaskListOrDictionary\11 - TaskListOrDictionary\obj\Debug\TaskListOrDictionary.csprojAssemblyReference.cache
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\Projects\11 - TaskListOrDictionary\11 - TaskListOrDictionary\obj\Debug\TaskListOrDictionary.csproj.CoreCompileInputs.cache
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\Projects\11 - TaskListOrDictionary\11 - TaskListOrDictionary\obj\Debug\TaskListOrDictionary.csproj.CopyComplete
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\Projects\11 - TaskListOrDictionary\11 - TaskListOrDictionary\obj\Debug\11 - TaskListOrDictionary.exe
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\Projects\11 - TaskListOrDictionary\11 - TaskListOrDictionary\obj\Debug\11 - TaskListOrDictionary.pdb

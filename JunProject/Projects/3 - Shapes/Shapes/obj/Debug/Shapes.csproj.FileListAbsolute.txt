@@ -19,3 +19,10 @@ C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\3 - Shapes\Shapes\obj\Debu
 C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\3 - Shapes\Shapes\obj\Debug\Shapes.csproj.CoreCompileInputs.cache
 C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\3 - Shapes\Shapes\obj\Debug\Shapes.exe
 C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\3 - Shapes\Shapes\obj\Debug\Shapes.pdb
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\Projects\3 - Shapes\Shapes\bin\Debug\Shapes.exe.config
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\Projects\3 - Shapes\Shapes\bin\Debug\Shapes.exe
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\Projects\3 - Shapes\Shapes\bin\Debug\Shapes.pdb
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\Projects\3 - Shapes\Shapes\obj\Debug\Shapes.csprojAssemblyReference.cache
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\Projects\3 - Shapes\Shapes\obj\Debug\Shapes.csproj.CoreCompileInputs.cache
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\Projects\3 - Shapes\Shapes\obj\Debug\Shapes.exe
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\Projects\3 - Shapes\Shapes\obj\Debug\Shapes.pdb

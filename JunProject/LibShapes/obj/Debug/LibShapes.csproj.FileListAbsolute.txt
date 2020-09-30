@@ -9,3 +9,9 @@ C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\LibShapes
 C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\LibShapes\obj\Debug\LibShapes.csproj.CoreCompileInputs.cache
 C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\LibShapes\obj\Debug\LibShapes.dll
 C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\LibShapes\obj\Debug\LibShapes.pdb
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\LibShapes\bin\Debug\LibShapes.dll
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\LibShapes\bin\Debug\LibShapes.pdb
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\LibShapes\obj\Debug\LibShapes.csprojAssemblyReference.cache
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\LibShapes\obj\Debug\LibShapes.csproj.CoreCompileInputs.cache
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\LibShapes\obj\Debug\LibShapes.dll
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\LibShapes\obj\Debug\LibShapes.pdb

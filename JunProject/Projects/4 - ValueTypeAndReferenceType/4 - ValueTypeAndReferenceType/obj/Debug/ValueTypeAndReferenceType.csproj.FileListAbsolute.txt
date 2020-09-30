@@ -19,3 +19,10 @@ C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\4 - ValueTypeAndReferenceT
 C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\4 - ValueTypeAndReferenceType\4 - ValueTypeAndReferenceType\obj\Debug\ValueTypeAndReferenceType.csproj.CoreCompileInputs.cache
 C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\4 - ValueTypeAndReferenceType\4 - ValueTypeAndReferenceType\obj\Debug\4 - ValueTypeAndReferenceType.exe
 C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\4 - ValueTypeAndReferenceType\4 - ValueTypeAndReferenceType\obj\Debug\4 - ValueTypeAndReferenceType.pdb
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\Projects\4 - ValueTypeAndReferenceType\4 - ValueTypeAndReferenceType\bin\Debug\4 - ValueTypeAndReferenceType.exe.config
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\Projects\4 - ValueTypeAndReferenceType\4 - ValueTypeAndReferenceType\bin\Debug\4 - ValueTypeAndReferenceType.exe
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\Projects\4 - ValueTypeAndReferenceType\4 - ValueTypeAndReferenceType\bin\Debug\4 - ValueTypeAndReferenceType.pdb
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\Projects\4 - ValueTypeAndReferenceType\4 - ValueTypeAndReferenceType\obj\Debug\ValueTypeAndReferenceType.csprojAssemblyReference.cache
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\Projects\4 - ValueTypeAndReferenceType\4 - ValueTypeAndReferenceType\obj\Debug\ValueTypeAndReferenceType.csproj.CoreCompileInputs.cache
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\Projects\4 - ValueTypeAndReferenceType\4 - ValueTypeAndReferenceType\obj\Debug\4 - ValueTypeAndReferenceType.exe
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\Projects\4 - ValueTypeAndReferenceType\4 - ValueTypeAndReferenceType\obj\Debug\4 - ValueTypeAndReferenceType.pdb

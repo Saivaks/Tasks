@@ -5,3 +5,10 @@ C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\17 - TaskExtentions\17 - T
 C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\17 - TaskExtentions\17 - TaskExtentions\obj\Debug\TaskExtentions.csproj.CoreCompileInputs.cache
 C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\17 - TaskExtentions\17 - TaskExtentions\obj\Debug\17 - TaskExtentions.exe
 C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\17 - TaskExtentions\17 - TaskExtentions\obj\Debug\17 - TaskExtentions.pdb
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\Projects\17 - TaskExtentions\17 - TaskExtentions\bin\Debug\17 - TaskExtentions.exe.config
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\Projects\17 - TaskExtentions\17 - TaskExtentions\bin\Debug\17 - TaskExtentions.exe
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\Projects\17 - TaskExtentions\17 - TaskExtentions\bin\Debug\17 - TaskExtentions.pdb
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\Projects\17 - TaskExtentions\17 - TaskExtentions\obj\Debug\TaskExtentions.csprojAssemblyReference.cache
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\Projects\17 - TaskExtentions\17 - TaskExtentions\obj\Debug\TaskExtentions.csproj.CoreCompileInputs.cache
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\Projects\17 - TaskExtentions\17 - TaskExtentions\obj\Debug\17 - TaskExtentions.exe
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\Projects\17 - TaskExtentions\17 - TaskExtentions\obj\Debug\17 - TaskExtentions.pdb

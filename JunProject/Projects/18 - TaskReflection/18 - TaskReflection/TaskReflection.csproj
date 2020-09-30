@@ -54,7 +54,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="D:\Документы Владмира\C# Jun\Works\Task%27s С#\JunProject\LibShapes\LibShapes.csproj">
+    <ProjectReference Include="..\..\..\LibShapes\LibShapes.csproj">
       <Project>{23a0ca68-3993-4857-afc7-c7ad6893532d}</Project>
       <Name>LibShapes</Name>
     </ProjectReference>

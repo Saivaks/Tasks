@@ -22,16 +22,16 @@ namespace Shapes
                 switch (Console.ReadLine())
                 {
                     case "1":
-                        shape = new Circle();
+                        shape = Circle.EnteringParameters();
                         goto case "Print";
                     case "2":
-                        shape = new Phere();
+                        shape = Phere.EnteringParameters(); ;
                         goto case "Print";
                     case "3":
-                        shape = new Rectangle();
+                        shape = Rectangle.EnteringParameters();
                         goto case "Print";
                     case "4":
-                        shape = new Coub();
+                        shape = Coub.EnteringParameters();
                         goto case "Print";
                     case "5":
                         flag = false;

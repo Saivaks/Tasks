@@ -5,10 +5,10 @@ namespace Shapes
     // Класс раширяющий класс Круг, и представляющий его в виде Сферы
     public class Phere : Circle
     {
-        public Phere():base()
-        { }
+        public Phere(double radius) : base(radius) { }
 
-        protected override double EnteringParameters()
+        // Метод отвечающий за создание экземляра объекта и корректный ввод радиуса сферы
+        public new static Phere EnteringParameters()
         {
             double radius;
             do
@@ -16,17 +16,17 @@ namespace Shapes
                 Console.Write("Введите радиус сферы: R - ");
             } while (!Double.TryParse(Console.ReadLine(), out radius));
 
-            return radius;
+            return new Phere(radius);
         }
 
-        protected override void AreaCalc()
+        protected override double AreaCalc()
         {
-            Area = 4.0 / 3.0 * Math.PI * Math.Pow(Radius, 3);
+            return 4.0 / 3.0 * Math.PI * Math.Pow(Radius, 3);
         }
 
-        protected override void PerimeterCalc()
+        protected override double PerimeterCalc()
         {
-            Perimeter = 4 * Math.PI * Math.Pow(Radius, 2);
+            return 4 * Math.PI * Math.Pow(Radius, 2);
         }
 
         public override string ToString()
@@ -35,8 +35,6 @@ namespace Shapes
         }
 
         // Для задачи преобразования типов
-        public Phere(double radius):base(radius) { }
-
         public static explicit operator double[] (Phere phere)
         {
             return new double[] { phere.Radius, phere.Perimeter, phere.Radius};

@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Collections.Concurrent;
 using System.Threading;
 using System.Threading.Tasks;
 
@@ -8,8 +9,7 @@ namespace TaskThread2
     internal class TaskQueue : IJobExecutor
     {
         private CancellationTokenSource cancellationToken = new CancellationTokenSource();
-        private ManualResetEvent stateThreads = new ManualResetEvent(false);
-        private Queue<Action> queueTasks = new Queue<Action>();
+        private ConcurrentQueue<Action> queueTasks = new ConcurrentQueue<Action>();
         private Semaphore semaphore;
         private Task totalTask;
 
@@ -18,12 +18,10 @@ namespace TaskThread2
         public void Start(int maxConcurrent)
         {
             semaphore = new Semaphore(maxConcurrent, maxConcurrent);
-            stateThreads.Set();
 
             totalTask = new Task(Run);
             totalTask.Start();
         }
-
 
         private void Run()
         {
@@ -36,16 +34,17 @@ namespace TaskThread2
                     {
                         semaphore.WaitOne();
                         if (Amount > 0 && !cancellationToken.Token.IsCancellationRequested)
-                            queueTasks.Dequeue()?.Invoke();
-                        semaphore.Release(); });
+                        {
+                            Action action;
+                            queueTasks.TryDequeue(out action);
+                            action?.Invoke();
+                        }
+                        semaphore.Release();
+                    });
                     task.Start();
                 }
                 else
-                {
                     Console.WriteLine("Задачи в очереди отсутсвуют.");
-                    stateThreads.Reset();
-                    stateThreads.WaitOne();
-                }
             }
         }
 
@@ -53,20 +52,18 @@ namespace TaskThread2
         {
             cancellationToken.Cancel();
             Console.WriteLine("Очередь остановлена.");
-            stateThreads.Set();
         }
 
         public void Add(Action action)
         {
             queueTasks.Enqueue(action);
             Console.WriteLine($"В очередь добавлен поток под номером: {Amount}");
-            stateThreads.Set();
         }
 
         public void Clear()
         {
             Console.WriteLine("Очередь очищена.");
-            queueTasks.Clear();
+            // queueTasks.Clear();  // Core 3.1
         }
     }
 }

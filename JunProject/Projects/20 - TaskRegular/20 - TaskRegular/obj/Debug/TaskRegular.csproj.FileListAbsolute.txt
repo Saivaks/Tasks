@@ -10,3 +10,10 @@ C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\Projects\
 C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\Projects\20 - TaskRegular\20 - TaskRegular\obj\Debug\TaskRegular.csproj.CoreCompileInputs.cache
 C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\Projects\20 - TaskRegular\20 - TaskRegular\obj\Debug\20 - TaskRegular.exe
 C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\Projects\20 - TaskRegular\20 - TaskRegular\obj\Debug\20 - TaskRegular.pdb
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\Projects\20 - TaskRegular\20 - TaskRegular\bin\Debug\20 - TaskRegular.exe.config
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\Projects\20 - TaskRegular\20 - TaskRegular\bin\Debug\20 - TaskRegular.exe
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\Projects\20 - TaskRegular\20 - TaskRegular\bin\Debug\20 - TaskRegular.pdb
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\Projects\20 - TaskRegular\20 - TaskRegular\obj\Debug\TaskRegular.csprojAssemblyReference.cache
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\Projects\20 - TaskRegular\20 - TaskRegular\obj\Debug\TaskRegular.csproj.CoreCompileInputs.cache
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\Projects\20 - TaskRegular\20 - TaskRegular\obj\Debug\20 - TaskRegular.exe
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\Projects\20 - TaskRegular\20 - TaskRegular\obj\Debug\20 - TaskRegular.pdb
