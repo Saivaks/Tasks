@@ -9,3 +9,25 @@ C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\5 - TypeConversion\5 - Typ
 C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\5 - TypeConversion\5 - TypeConversion\bin\Debug\Shapes.pdb
 C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\5 - TypeConversion\5 - TypeConversion\bin\Debug\Shapes.exe.config
 C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\5 - TypeConversion\5 - TypeConversion\obj\Debug\TypeConversion.csproj.CopyComplete
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\Projects\5 - TypeConversion\5 - TypeConversion\bin\Debug\5 - TypeConversion.exe.config
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\Projects\5 - TypeConversion\5 - TypeConversion\bin\Debug\5 - TypeConversion.exe
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\Projects\5 - TypeConversion\5 - TypeConversion\bin\Debug\5 - TypeConversion.pdb
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\Projects\5 - TypeConversion\5 - TypeConversion\bin\Debug\Shapes.exe
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\Projects\5 - TypeConversion\5 - TypeConversion\bin\Debug\Shapes.pdb
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\Projects\5 - TypeConversion\5 - TypeConversion\bin\Debug\Shapes.exe.config
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\Projects\5 - TypeConversion\5 - TypeConversion\obj\Debug\TypeConversion.csprojAssemblyReference.cache
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\Projects\5 - TypeConversion\5 - TypeConversion\obj\Debug\TypeConversion.csproj.CoreCompileInputs.cache
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\Projects\5 - TypeConversion\5 - TypeConversion\obj\Debug\TypeConversion.csproj.CopyComplete
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\Projects\5 - TypeConversion\5 - TypeConversion\obj\Debug\5 - TypeConversion.exe
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\Projects\5 - TypeConversion\5 - TypeConversion\obj\Debug\5 - TypeConversion.pdb
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\Projects\5 - TypeConversion\5 - TypeConversion\bin\Debug\5 - TypeConversion.exe.config
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\Projects\5 - TypeConversion\5 - TypeConversion\bin\Debug\5 - TypeConversion.exe
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\Projects\5 - TypeConversion\5 - TypeConversion\bin\Debug\5 - TypeConversion.pdb
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\Projects\5 - TypeConversion\5 - TypeConversion\bin\Debug\Shapes.exe
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\Projects\5 - TypeConversion\5 - TypeConversion\bin\Debug\Shapes.pdb
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\Projects\5 - TypeConversion\5 - TypeConversion\bin\Debug\Shapes.exe.config
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\Projects\5 - TypeConversion\5 - TypeConversion\obj\Debug\TypeConversion.csprojAssemblyReference.cache
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\Projects\5 - TypeConversion\5 - TypeConversion\obj\Debug\TypeConversion.csproj.CoreCompileInputs.cache
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\Projects\5 - TypeConversion\5 - TypeConversion\obj\Debug\TypeConversion.csproj.CopyComplete
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\Projects\5 - TypeConversion\5 - TypeConversion\obj\Debug\5 - TypeConversion.exe
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\Projects\5 - TypeConversion\5 - TypeConversion\obj\Debug\5 - TypeConversion.pdb

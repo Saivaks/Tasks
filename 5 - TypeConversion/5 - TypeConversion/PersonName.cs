@@ -47,6 +47,8 @@ namespace TypeConversion
 
         public override int GetHashCode()
         {
+            // Для .Net Core 
+            // return HashCode.Combine(LastName, FirstName);
             return LastName.GetHashCode()^FirstName.GetHashCode();
         }
     }

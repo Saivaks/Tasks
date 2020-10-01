@@ -9,3 +9,25 @@ C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\9 - TaskComparable\9 - Tas
 C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\9 - TaskComparable\9 - TaskComparable\obj\Debug\TaskComparable.csproj.CopyComplete
 C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\9 - TaskComparable\9 - TaskComparable\obj\Debug\9 - TaskComparable.exe
 C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\9 - TaskComparable\9 - TaskComparable\obj\Debug\9 - TaskComparable.pdb
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\Projects\9 - TaskComparable\9 - TaskComparable\bin\Debug\9 - TaskComparable.exe.config
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\Projects\9 - TaskComparable\9 - TaskComparable\bin\Debug\9 - TaskComparable.exe
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\Projects\9 - TaskComparable\9 - TaskComparable\bin\Debug\9 - TaskComparable.pdb
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\Projects\9 - TaskComparable\9 - TaskComparable\bin\Debug\Shapes.exe
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\Projects\9 - TaskComparable\9 - TaskComparable\bin\Debug\Shapes.pdb
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\Projects\9 - TaskComparable\9 - TaskComparable\bin\Debug\Shapes.exe.config
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\Projects\9 - TaskComparable\9 - TaskComparable\obj\Debug\TaskComparable.csprojAssemblyReference.cache
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\Projects\9 - TaskComparable\9 - TaskComparable\obj\Debug\TaskComparable.csproj.CoreCompileInputs.cache
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\Projects\9 - TaskComparable\9 - TaskComparable\obj\Debug\TaskComparable.csproj.CopyComplete
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\Projects\9 - TaskComparable\9 - TaskComparable\obj\Debug\9 - TaskComparable.exe
+C:\Users\пк\Desktop\Раб док\GitHub\Task's С#\Tasks\JunProject\Projects\9 - TaskComparable\9 - TaskComparable\obj\Debug\9 - TaskComparable.pdb
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\Projects\9 - TaskComparable\9 - TaskComparable\bin\Debug\9 - TaskComparable.exe.config
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\Projects\9 - TaskComparable\9 - TaskComparable\bin\Debug\9 - TaskComparable.exe
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\Projects\9 - TaskComparable\9 - TaskComparable\bin\Debug\9 - TaskComparable.pdb
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\Projects\9 - TaskComparable\9 - TaskComparable\bin\Debug\Shapes.exe
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\Projects\9 - TaskComparable\9 - TaskComparable\bin\Debug\Shapes.pdb
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\Projects\9 - TaskComparable\9 - TaskComparable\bin\Debug\Shapes.exe.config
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\Projects\9 - TaskComparable\9 - TaskComparable\obj\Debug\TaskComparable.csprojAssemblyReference.cache
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\Projects\9 - TaskComparable\9 - TaskComparable\obj\Debug\TaskComparable.csproj.CoreCompileInputs.cache
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\Projects\9 - TaskComparable\9 - TaskComparable\obj\Debug\TaskComparable.csproj.CopyComplete
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\Projects\9 - TaskComparable\9 - TaskComparable\obj\Debug\9 - TaskComparable.exe
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\Projects\9 - TaskComparable\9 - TaskComparable\obj\Debug\9 - TaskComparable.pdb

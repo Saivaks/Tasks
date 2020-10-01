@@ -67,23 +67,23 @@ namespace TypeConversion
             Console.WriteLine("Задача: Использовать общие классы с проектом Shapes.");
 
             Console.WriteLine("1. Произведем преобразование типов: Coub -> Rectangle. Для этого создадим объект куб:");
-            Coub coub = new Coub();
+            Coub coub = Coub.EnteringParameters();
             Rectangle rect = coub; 
             // Если нам надо получить метод rect.ToString() соотвествующий классу Rectangle, то необходимо исопльзовать сокрытие методов
             Console.WriteLine($"Получим объект Rectangle со следующими параметрами: \nHeight - {rect.Height}\nWidth - {rect.Width}\n{rect.ToString()}\n"); 
 
             Console.WriteLine("2. Произведем преобразование типов: Phere -> Circle. Для этого создадим объект шар:");
-            Phere phere = new Phere();
+            Phere phere = Phere.EnteringParameters();
             Circle circle = phere;
             Console.WriteLine($"Получим объект Circle со следующими параметрами: \nRadius - {circle.Radius}\n{circle.ToString()}\n");
 
             Console.WriteLine("3. Произведем неявное преобразование типов: Circle -> double[]. Для этого создадим объект круг:");
-            Circle circle2 = new Circle();
+            Circle circle2 = Circle.EnteringParameters();
             double[] mas = circle2;
             Console.WriteLine($"Получим массив со следующими параметрами: [Radius- {mas[0]}, Perimeter - {mas[1]}, Area - {mas[2]}]\n");
 
             Console.WriteLine("4. Произведем неявное преобразование типов: Phere -> double[]. Для этого создадим объект шар:");
-            Phere phere2 = new Phere();
+            Phere phere2 = Phere.EnteringParameters();
             double[] mas2 = phere2;
             Console.WriteLine($"Получим массив со следующими параметрами: [Radius- {mas2[0]}, Perimeter - {mas2[1]}, Area - {mas2[2]}]\n");
 

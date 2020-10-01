@@ -8,11 +8,23 @@ namespace TaskThread2
 {
     internal class TaskQueue : IJobExecutor
     {
-        private ConcurrentQueue<Action> queueTasks = new ConcurrentQueue<Action>();
         private CancellationTokenSource cancellationToken;
+        private ConcurrentQueue<Action> queueTasks;
         private CancellationToken token;
         private Semaphore semaphore;
         private Task totalTask;
+
+        public TaskQueue()
+        {
+            queueTasks = new ConcurrentQueue<Action>();
+        }
+
+        public TaskQueue(CancellationToken token)
+        {
+            queueTasks = new ConcurrentQueue<Action>();
+            cancellationToken = new CancellationTokenSource();
+            this.token = token;
+        }
 
         public int Amount { get { return queueTasks.Count; } }
 

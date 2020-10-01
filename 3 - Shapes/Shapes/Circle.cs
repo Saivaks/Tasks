@@ -7,15 +7,13 @@ namespace Shapes
     {
         public double Radius { get; protected set; }
 
-        public Circle()
+        public Circle(double radius)
         {
-            Radius = EnteringParameters();
-            AreaCalc();
-            PerimeterCalc();
+            Radius = radius;
         }
 
-        // Метод отвечающий за корректный ввод радиуса круга
-        protected virtual double EnteringParameters()
+        // Метод отвечающий за создание экземляра объекта и корректный ввод радиуса круга
+        public static Circle EnteringParameters()
         {
             double radius;
             do
@@ -23,17 +21,17 @@ namespace Shapes
                 Console.Write("Введите радиус круга: R - ");
             } while (!Double.TryParse(Console.ReadLine(), out radius));
 
-            return radius;
+            return new Circle(radius);
         }
 
-        protected override void AreaCalc()
+        protected override double AreaCalc()
         {
-            Area = Math.PI * Radius * Radius;
+            return Math.PI * Radius * Radius;
         }
 
-        protected override void PerimeterCalc()
+        protected override double PerimeterCalc()
         {
-            Perimeter = 2 * Math.PI * Radius;
+            return 2 * Math.PI * Radius;
         }
 
         public override string ToString()
@@ -42,13 +40,6 @@ namespace Shapes
         }
 
         // Для задачи преобразования типов
-        public Circle(double radius)
-        {
-            Radius = radius;
-            AreaCalc();
-            PerimeterCalc();
-        }
-
         public static implicit operator double[] (Circle circle)
         {
             return new double[] { circle.Radius, circle.Perimeter, circle.Area};

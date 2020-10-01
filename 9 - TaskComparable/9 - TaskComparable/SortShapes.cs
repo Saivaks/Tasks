@@ -13,7 +13,7 @@ namespace TaskComparable
             // Создаем массив объектов Circle содержащий 10 элементов.
             Circle[] shapes = new Circle[10];
             for (int i = 0; i < 10; i++)
-                shapes[i] = new Circle();
+                shapes[i] = Circle.EnteringParameters();
 
             Console.WriteLine("\nНеотсортированный массив:");
             ToPrint(shapes);

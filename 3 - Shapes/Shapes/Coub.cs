@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Runtime.InteropServices;
 
 namespace Shapes
 {
@@ -7,46 +8,34 @@ namespace Shapes
     {
         public double Depth { get; protected set; }
 
-        public Coub()
+        public Coub(double height, double width, double depth): base(height, width)
         {
-            Depth = EnteringDepth();
-            AreaCalc();
-            PerimeterCalc();
+            Depth = depth;
         }
 
-        protected override double[] EnteringParameters()
+        // Метод отвечающий за создание экземляра объекта и корректный ввод сторон прямоугольного параллелепипеда
+        public new static Coub EnteringParameters()
         {
-            var value = new double[2];
+            var value = new double[3];
             string[] sideRectangle;
             do
             {
-                Console.WriteLine("Введите длины сторон основания прямоугольного параллелепипеда через пробел:");
+                Console.WriteLine("Введите стороны и высоту прямоугольного параллелепипеда через пробел:");
                 sideRectangle = Console.ReadLine().Split(new char[] { ' ' });
-            } while (!(sideRectangle.Length == 2 && Double.TryParse(sideRectangle[0], out value[0]) && Double.TryParse(sideRectangle[1], out value[1])));
+            } while (!(sideRectangle.Length == 3 && Double.TryParse(sideRectangle[0], out value[0]) && Double.TryParse(sideRectangle[1], out value[1]) && Double.TryParse(sideRectangle[2], out value[2])));
 
             // Depth = value[2]; - Данные должны передаваться через конструктор. Так понимаю к этой строке.
-            return value;
+            return new Coub(value[0], value[1], value[2]);
         }
 
-        private double EnteringDepth()
+        protected override double AreaCalc()
         {
-            double depth;
-            do
-            {
-                Console.WriteLine("Введите высоту прямоугольного параллелепипеда:");
-            } while (!Double.TryParse(Console.ReadLine(), out depth));
-
-            return depth;
+            return Depth * Width * Height;
         }
 
-        protected override void AreaCalc()
+        protected override double PerimeterCalc()
         {
-            Area = Depth * Width * Height;
-        }
-
-        protected override void PerimeterCalc()
-        {
-            Perimeter = 2 * (Depth * Height + Depth * Width + Height * Width);
+            return 2 * (Depth * Height + Depth * Width + Height * Width);
         }
 
         public override string ToString()

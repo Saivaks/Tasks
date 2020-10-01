@@ -1,0 +1,14 @@
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\Projects\10 - TaskEquals\10 - TaskEquals\bin\Debug\10 - TaskEquals.exe.config
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\Projects\10 - TaskEquals\10 - TaskEquals\bin\Debug\10 - TaskEquals.exe
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\Projects\10 - TaskEquals\10 - TaskEquals\bin\Debug\10 - TaskEquals.pdb
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\Projects\10 - TaskEquals\10 - TaskEquals\bin\Debug\5 - TypeConversion.exe
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\Projects\10 - TaskEquals\10 - TaskEquals\bin\Debug\Shapes.exe
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\Projects\10 - TaskEquals\10 - TaskEquals\bin\Debug\5 - TypeConversion.pdb
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\Projects\10 - TaskEquals\10 - TaskEquals\bin\Debug\5 - TypeConversion.exe.config
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\Projects\10 - TaskEquals\10 - TaskEquals\bin\Debug\Shapes.pdb
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\Projects\10 - TaskEquals\10 - TaskEquals\bin\Debug\Shapes.exe.config
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\Projects\10 - TaskEquals\10 - TaskEquals\obj\Debug\TaskEqualsFalse.csprojAssemblyReference.cache
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\Projects\10 - TaskEquals\10 - TaskEquals\obj\Debug\TaskEqualsFalse.csproj.CoreCompileInputs.cache
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\Projects\10 - TaskEquals\10 - TaskEquals\obj\Debug\TaskEqualsFalse.csproj.CopyComplete
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\Projects\10 - TaskEquals\10 - TaskEquals\obj\Debug\10 - TaskEquals.exe
+C:\Users\Star\Documents\GitHub\Tasks\JunProject\Projects\10 - TaskEquals\10 - TaskEquals\obj\Debug\10 - TaskEquals.pdb

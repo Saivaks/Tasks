@@ -52,5 +52,11 @@
   <ItemGroup>
     <Content Include="Task.txt" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\3 - Shapes\Shapes\Shapes.csproj">
+      <Project>{cdc5ec3d-dbd6-4cd4-9d97-8da87c9767eb}</Project>
+      <Name>Shapes</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

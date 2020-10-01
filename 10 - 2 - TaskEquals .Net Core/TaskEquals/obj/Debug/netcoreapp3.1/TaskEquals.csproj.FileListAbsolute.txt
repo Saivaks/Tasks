@@ -1,0 +1,26 @@
+C:\Users\Star\Documents\GitHub\Tasks\TaskEquals\TaskEquals\bin\Debug\netcoreapp3.1\TaskEquals.exe
+C:\Users\Star\Documents\GitHub\Tasks\TaskEquals\TaskEquals\bin\Debug\netcoreapp3.1\TaskEquals.deps.json
+C:\Users\Star\Documents\GitHub\Tasks\TaskEquals\TaskEquals\bin\Debug\netcoreapp3.1\TaskEquals.runtimeconfig.json
+C:\Users\Star\Documents\GitHub\Tasks\TaskEquals\TaskEquals\bin\Debug\netcoreapp3.1\TaskEquals.runtimeconfig.dev.json
+C:\Users\Star\Documents\GitHub\Tasks\TaskEquals\TaskEquals\bin\Debug\netcoreapp3.1\TaskEquals.dll
+C:\Users\Star\Documents\GitHub\Tasks\TaskEquals\TaskEquals\bin\Debug\netcoreapp3.1\TaskEquals.pdb
+C:\Users\Star\Documents\GitHub\Tasks\TaskEquals\TaskEquals\obj\Debug\netcoreapp3.1\TaskEquals.csprojAssemblyReference.cache
+C:\Users\Star\Documents\GitHub\Tasks\TaskEquals\TaskEquals\obj\Debug\netcoreapp3.1\TaskEquals.AssemblyInfoInputs.cache
+C:\Users\Star\Documents\GitHub\Tasks\TaskEquals\TaskEquals\obj\Debug\netcoreapp3.1\TaskEquals.AssemblyInfo.cs
+C:\Users\Star\Documents\GitHub\Tasks\TaskEquals\TaskEquals\obj\Debug\netcoreapp3.1\TaskEquals.csproj.CoreCompileInputs.cache
+C:\Users\Star\Documents\GitHub\Tasks\TaskEquals\TaskEquals\obj\Debug\netcoreapp3.1\TaskEquals.dll
+C:\Users\Star\Documents\GitHub\Tasks\TaskEquals\TaskEquals\obj\Debug\netcoreapp3.1\TaskEquals.pdb
+C:\Users\Star\Documents\GitHub\Tasks\TaskEquals\TaskEquals\obj\Debug\netcoreapp3.1\TaskEquals.genruntimeconfig.cache
+C:\Users\Star\Documents\GitHub\Tasks\10 - 2 - TaskEquals .Net Core\TaskEquals\bin\Debug\netcoreapp3.1\TaskEquals.exe
+C:\Users\Star\Documents\GitHub\Tasks\10 - 2 - TaskEquals .Net Core\TaskEquals\bin\Debug\netcoreapp3.1\TaskEquals.deps.json
+C:\Users\Star\Documents\GitHub\Tasks\10 - 2 - TaskEquals .Net Core\TaskEquals\bin\Debug\netcoreapp3.1\TaskEquals.runtimeconfig.json
+C:\Users\Star\Documents\GitHub\Tasks\10 - 2 - TaskEquals .Net Core\TaskEquals\bin\Debug\netcoreapp3.1\TaskEquals.runtimeconfig.dev.json
+C:\Users\Star\Documents\GitHub\Tasks\10 - 2 - TaskEquals .Net Core\TaskEquals\bin\Debug\netcoreapp3.1\TaskEquals.dll
+C:\Users\Star\Documents\GitHub\Tasks\10 - 2 - TaskEquals .Net Core\TaskEquals\bin\Debug\netcoreapp3.1\TaskEquals.pdb
+C:\Users\Star\Documents\GitHub\Tasks\10 - 2 - TaskEquals .Net Core\TaskEquals\obj\Debug\netcoreapp3.1\TaskEquals.csprojAssemblyReference.cache
+C:\Users\Star\Documents\GitHub\Tasks\10 - 2 - TaskEquals .Net Core\TaskEquals\obj\Debug\netcoreapp3.1\TaskEquals.AssemblyInfoInputs.cache
+C:\Users\Star\Documents\GitHub\Tasks\10 - 2 - TaskEquals .Net Core\TaskEquals\obj\Debug\netcoreapp3.1\TaskEquals.AssemblyInfo.cs
+C:\Users\Star\Documents\GitHub\Tasks\10 - 2 - TaskEquals .Net Core\TaskEquals\obj\Debug\netcoreapp3.1\TaskEquals.csproj.CoreCompileInputs.cache
+C:\Users\Star\Documents\GitHub\Tasks\10 - 2 - TaskEquals .Net Core\TaskEquals\obj\Debug\netcoreapp3.1\TaskEquals.dll
+C:\Users\Star\Documents\GitHub\Tasks\10 - 2 - TaskEquals .Net Core\TaskEquals\obj\Debug\netcoreapp3.1\TaskEquals.pdb
+C:\Users\Star\Documents\GitHub\Tasks\10 - 2 - TaskEquals .Net Core\TaskEquals\obj\Debug\netcoreapp3.1\TaskEquals.genruntimeconfig.cache

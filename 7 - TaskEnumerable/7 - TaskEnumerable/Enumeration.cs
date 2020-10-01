@@ -9,15 +9,11 @@ namespace TaskEnumerable
         public static void Main()
         {
             Console.WriteLine("\nЗадача: Сделать пример множества и его членов, реализовать интерфейс для перечисления. Обойти всех членов при помощи операторов: foreach, while");
-            Random rng = new Random();
+
             // Список объектов, содержащий внутри себя списки Фигур входящих в него
             ArrayList cartestianSpace = new ArrayList();
-
-            // Генерируем списки объектов находящихся в декартовом просстранстве
-            cartestianSpace.Add(GenerateShape<Circle>(rng.Next(1, 4)));
-            cartestianSpace.Add(GenerateShape<Phere>(rng.Next(1, 4)));
-            cartestianSpace.Add(GenerateShape<Rectangle>(rng.Next(1, 4)));
-            cartestianSpace.Add(GenerateShape<Coub>(rng.Next(1, 4)));
+            // Генерируем список объектов находящихся в декартовом просстранстве
+            cartestianSpace.Add(GenerateShapes());
 
             Console.WriteLine("\nПеречисление созданных объектов:");
             // Проходим по всем типам фигур находящихся в пространстве с помощью цикла foreach
@@ -36,14 +32,28 @@ namespace TaskEnumerable
             Console.ReadKey();
         }
 
-        // Метод генерирующий список объектов заданной фигуры в заданном количестве - count
-        public static ArrayList GenerateShape<T>(int count) where T: new()
+        // Метод генерирующий список объектов в декартовом простраснтве
+        private static ArrayList GenerateShapes()
         {
-            Console.WriteLine($"Создается {count} количество элементов:");
+            Random rng = new Random();
             ArrayList masArrayList = new ArrayList();
+            int count = rng.Next(1, 4);
 
+            Console.WriteLine($"Создается {count} количество элементов Circle:");
             for (int i=0;i<count;i++)
-                masArrayList.Add(new T());
+                masArrayList.Add(Circle.EnteringParameters());
+
+            Console.WriteLine($"Создается {count = rng.Next(1, 4)} количество элементов Phere:");
+            for (int i = 0; i < count; i++)
+                masArrayList.Add(Phere.EnteringParameters());
+
+            Console.WriteLine($"Создается {count = rng.Next(1, 4)} количество элементов Rectangle:");
+            for (int i = 0; i < count; i++)
+                masArrayList.Add(Rectangle.EnteringParameters());
+
+            Console.WriteLine($"Создается {count = rng.Next(1, 4)} количество элементов Coub:");
+            for (int i = 0; i < count; i++)
+                masArrayList.Add(Coub.EnteringParameters());
 
             return masArrayList;
         }
