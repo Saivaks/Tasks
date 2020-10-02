@@ -86,9 +86,9 @@ namespace TaskThread
                             else
                                 finishIndex = count;
 
-                            lock (locker)                                                       // Без lock происходит потеря данных
-                                for (; startIndex < finishIndex;)
-                                    mas[startIndex++] = rng.Next(100) + rng.NextDouble();
+                            for (; startIndex < finishIndex;)
+                                lock (locker)
+                                    mas[startIndex++] = rng.Next(100) + rng.NextDouble();       // Без lock происходит потеря данных
 
                             if (++countTotalThread == countThread)                              // Удостоверяемся, что завершаемый поток является последним, т.е. массив полностью заполнен                  
                                 eventLocker.Set();                                              // Подаем сигнал на продолжнеие работы (полного заполнения массива )    
@@ -126,9 +126,9 @@ namespace TaskThread
                         else
                             finishIndex = count;
 
-                        lock (locker)                                                       // Суммируем элементы на зданном интерфале потока
-                            for (; startIndex < finishIndex; startIndex++)
-                                sum += mas[startIndex];
+                        for (; startIndex < finishIndex; startIndex++)
+                            lock (locker)
+                                sum += mas[startIndex];                                     // Суммируем элементы на зданном интерфале потока
 
                         if (++countTotalThread == countThread)                              // Удостоверяемся, что завершаемый поток является последним, т.е. полученна сумма всех элементов массива
                             eventLocker.Set();                                              // Подаем сигнал на продолжнеие работы (полного обхода массива )  
