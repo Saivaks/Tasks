@@ -50,21 +50,24 @@ namespace TaskThread2
             {
                 if (Amount > 0)
                 {
-                    Task task = new Task( () => 
-                    {
-                        semaphore.WaitOne();
-                        if (Amount > 0 && !token.IsCancellationRequested)
-                        {
-                            Action action;
-                            queueTasks.TryDequeue(out action);
-                            action?.Invoke();
-                        }
-                        semaphore.Release();
-                    });
+                    semaphore.WaitOne();
+                    Task task = new Task(() =>
+                   {
+                       if (Amount > 0 && !token.IsCancellationRequested)
+                       {
+                           Action action;
+                           queueTasks.TryDequeue(out action);
+                           action?.Invoke();
+                       }
+                       semaphore.Release();
+                   });
                     task.Start();
                 }
                 else
-                    Console.WriteLine("Задачи в очереди отсутсвуют.");
+                {
+                    Console.WriteLine("Задачи в очереди отсутсвуют - введите дополнительные задачи или остановите выполнение работы поотка.");
+                    Thread.Sleep(1500);
+                }
             }
         }
 
