@@ -56,70 +56,44 @@ namespace TaskThread
             if (!(count is Int32))
                 throw new InvalidCastException("Невозможно преобразовать данный тип в Int32!");
 
-            // Вариант первый - с использованием lock
-            int countThread = 7;                                                                // Максимальное количество одновременно работающих потоков
-            double[] mas = CreateMas((int)count, countThread);                                  // Создание массива
-            double sum = CalcMas(mas, countThread);                                             // Рассчет массива
+            int countThread = 7;                                                                                    // Максимальное количество одновременно работающих потоков
+            double average = CreateAndCalcMas((int)count, countThread);                                             // Рассчет массива
 
-            Console.WriteLine($"Среднее арифметрическое массива размерностью {mas.Length} : {sum/mas.Length}");
-
-            // Вариант второй - без исопльзования lock
+            Console.WriteLine($"Среднее арифметрическое массива размерностью {count} : {average}");
         }
 
-        private static double[] CreateMas(int count, int countThread)
-        {                                                       
-            Random rng = new Random();
-            double[] mas = new double[count];
-            int countTotalThread = 0;                                                         // Количество отработанных потоков
-            object locker = new object();
-
-            for (int i = 0; i < countThread;i++)
-            {
-                ThreadPool.QueueUserWorkItem(x =>
-                {
-                    while (count > 0)
-                    {
-                        int indexMas = --count;                                              
-                        if (indexMas >= 0)
-                            lock(locker)                                                     
-                                mas[indexMas] = rng.Next(100) + rng.NextDouble();
-                    }
-
-                    if (++countTotalThread == countThread)
-                        eventLocker.Set();
-                });
-            }
-            eventLocker.WaitOne();                                                              
-
-            return mas;
-        }
-
-        private static double CalcMas(double[] mas, int countThread)
+        private static double CreateAndCalcMas(int count, int countThread)
         {
             double sum = 0;
-            int count = mas.Length;                                                         // Длина исследуемого массива
-            int countTotalThread = 0;                                                       // Количество выполненных потоков
-            object locker = new object();
+            int countTotalThread = 0;                                                                                // Количество отработанных потоков
+            int dimensionInterval = count / countThread;                                                             // Интервал покрытия одного потока
 
-            for (int i = 0; i < countThread; i++)
+            Parallel.For(0, countThread, delegate (int i)
             {
-                ThreadPool.QueueUserWorkItem(x =>
-                {
-                    while (count > 0)
-                    {
-                        int indexMas = --count;
-                        if (indexMas >= 0)
-                            lock (locker)
-                                sum += mas[indexMas];
-                    }
+                int indexer = i++;
+                double localSum = 0;
+                Random rng = new Random();                                                                          // Минимизируем общие элементы для всех потоков()
+                int dimensionMas = dimensionInterval;
 
-                    if (++countTotalThread == countThread)
-                        eventLocker.Set();
-                });
-            }
+                if (indexer == countThread - 1)
+                    dimensionMas = count - dimensionInterval * indexer - 1;                                          // Учитываем отстаток от деления
+
+                double[] localMas = new double[dimensionMas];
+
+                for (int index = 0; index < dimensionMas; index++)
+                    localMas[index] = rng.Next(100) + rng.NextDouble();
+
+                foreach (double value in localMas)
+                    localSum += value;
+
+                sum += localSum;
+
+                if (++countTotalThread == countThread)
+                    eventLocker.Set();
+            });
             eventLocker.WaitOne();
 
-            return sum;
+            return sum/count;
         }
 
         private static void OneStream()
