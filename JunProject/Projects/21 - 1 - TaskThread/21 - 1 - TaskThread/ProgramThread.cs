@@ -56,44 +56,89 @@ namespace TaskThread
             if (!(count is Int32))
                 throw new InvalidCastException("Невозможно преобразовать данный тип в Int32!");
 
-            int countThread = 7;                                                                                    // Максимальное количество одновременно работающих потоков
-            double average = CreateAndCalcMas((int)count, countThread);                                             // Рассчет массива
+            Console.WriteLine("Операция выполняется:");
 
-            Console.WriteLine($"Среднее арифметрическое массива размерностью {count} : {average}");
+            int countThread = 7;                                                                // Максимальное количество одновременно работающих потоков
+            double[] mas = CreateMas((int)count, countThread);                                  // Создание массива
+            double average = CalcMas(mas, countThread);                                         // Рассчет массива
+            Console.WriteLine($"Среднее арифметрическое массива размерностью {mas.Length} : {average} .... mas.Average - {Math.Round(mas.Average(),10)}");
         }
 
-        private static double CreateAndCalcMas(int count, int countThread)
+        private static double[] CreateMas(int count, int countThread)
         {
-            double sum = 0;
-            int countTotalThread = 0;                                                                                // Количество отработанных потоков
-            int dimensionInterval = count / countThread;                                                             // Интервал покрытия одного потока
+            double[] mas = new double[count];
+            int[] countTotalThread = new int [countThread];                                      // Количество отработанных потоков
+            int oneThreadInterval = count / countThread;                                         // Интервал покрытия одного потока
 
-            Parallel.For(0, countThread, delegate (int i)
+            for (int i = 0; i < countThread;)
             {
-                int indexer = i++;
-                double localSum = 0;
-                Random rng = new Random();                                                                          // Минимизируем общие элементы для всех потоков()
-                int dimensionMas = dimensionInterval;
+                ThreadPool.QueueUserWorkItem(x =>
+                {
+                    int indexer = i++;
+                    if (indexer < countThread)
+                    {
+                        Random rng = new Random();
+                        int startIndex = indexer * oneThreadInterval;                           // Начальный индекс который покрывает поток a[x*lengthInterval]
+                        int finishIndex;                                                        // Конечный  индекс который покрывает поток a[x*lengthInterval + n-1], где x - порядковый номер массива [0,countThread)
 
-                if (indexer == countThread - 1)
-                    dimensionMas = count - dimensionInterval * indexer - 1;                                          // Учитываем отстаток от деления
+                        if (indexer != countThread - 1)                                         // Последний поток может обрабатывать больший интервал (интервал потока + остаток от деления)
+                            finishIndex = (indexer + 1) * oneThreadInterval;
+                        else
+                            finishIndex = count;
 
-                double[] localMas = new double[dimensionMas];
+                        for (; startIndex < finishIndex;)                                       // Заполняем массив на заданном интервале
+                            mas[startIndex++] = rng.Next(100) + rng.NextDouble();
 
-                for (int index = 0; index < dimensionMas; index++)
-                    localMas[index] = rng.Next(100) + rng.NextDouble();
+                        countTotalThread[indexer] = 1;
 
-                foreach (double value in localMas)
-                    localSum += value;
+                        if (countTotalThread.Sum() == countThread)                              // Удостоверяемся, что завершаемый поток является последним, т.е. массив полностью заполнен                  
+                            eventLocker.Set();                                                  // Подаем сигнал на продолжнеие работы (полного заполнения массива )    
+                    }
+                });
+            }
+            eventLocker.WaitOne();                                                              // Синхронизируем потоки
 
-                sum += localSum;
+            return mas;
+        }
 
-                if (++countTotalThread == countThread)
-                    eventLocker.Set();
-            });
-            eventLocker.WaitOne();
+        private static double CalcMas(double[] mas, int countThread)
+        {
+            int count = mas.Length;                                                             // Длина исследуемого массива
+            double[] masSum = new double [countThread];                                         // Массив для записи результата сумм в каждом потоке
+            int[] countTotalThread = new int [countThread];                                     // Количество выполненных потоков
+            int oneThreadInterval = count / countThread;
+            eventLocker.Reset();
 
-            return sum/count;
+            for (int i = 0; i < countThread;)
+            {
+                ThreadPool.QueueUserWorkItem(x =>
+                {
+                    int indexer = i++;
+                    double localSum = 0;                                                        // Локальная переменная для хранения суммы элементов в массиве в заданном потоке
+                    if (indexer < countThread)
+                    {
+                        int startIndex = indexer * oneThreadInterval;                           // Начальный индекс который покрывает поток
+                        int finishIndex;                                                        // Конечный  индекс который покрывает поток
+
+                        if (indexer != countThread - 1)
+                            finishIndex = (indexer + 1) * oneThreadInterval;
+                        else
+                            finishIndex = count;
+
+                        for (; startIndex < finishIndex; startIndex++)
+                            localSum += mas[startIndex];                                        // Суммируем элементы на зданном интерфале
+
+                        masSum[indexer] = localSum;                                             // Записываем сууму элементов даенного потока в массив сумм
+                        countTotalThread[indexer] = 1;
+
+                        if (countTotalThread.Sum() == countThread)                              // Удостоверяемся, что завершаемый поток является последним, т.е. полученна сумма всех элементов массива
+                            eventLocker.Set();                                                  // Подаем сигнал на продолжнеие работы (полного обхода массива )  
+                    }
+                });
+            }
+            eventLocker.WaitOne();                                                              // Синхронизируем потоки
+
+            return Math.Round(masSum.Sum() / count, 10);
         }
 
         private static void OneStream()
