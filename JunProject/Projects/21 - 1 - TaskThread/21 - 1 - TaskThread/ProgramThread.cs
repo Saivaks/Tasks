@@ -69,13 +69,17 @@ namespace TaskThread
         // Вввод количетсва работающих потоков
         private static int InputOfCountThreads()
         {
-            int countThread;
+            int countThread = 0;
+            bool flag = true;
 
-            do
+            while (flag)
             {
-                Console.Write("Введите количество одновременно работающих потоков - ");
+                Console.Write("Введите количество одновременно работающих потоков (> 0) - ");
+                flag = !(Int32.TryParse(Console.ReadLine(), out countThread) && countThread > 0);
+
+                if (flag)
+                    Console.WriteLine("Введено не корректное значение: не число или значение < 0");
             }
-            while (!Int32.TryParse(Console.ReadLine(), out countThread));
             
             return countThread;
         }
